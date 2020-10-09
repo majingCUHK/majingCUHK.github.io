@@ -30,11 +30,13 @@ navbar-links:
   #More About Me: "pages/aboutme/"
   Papers: "pages/aboutme/"
   
-  Publications: "pages/mypublications/"  
+  Research: "pages/mypublications/"  
   
-  Professional Services: "pages/services/"
+  Teacgubg: "pages/services/"
   
-  News & Oppotunities: "pages/news/"
+  Students: "pages/news/"
+  
+  CV: "pages/data_codes/"
 
   # Research:
     #- Light Field Imaging and Applications: "projects/LFGeneral/"
@@ -42,9 +44,9 @@ navbar-links:
     #- 3D Content Modeling with Deep Learning: "projects/learning3D/"
     #- Multi-scale Sparse Coding: "https://hotndy.github.io/2014-12-27-MSC/"
     #- Conjectures over Wide Angle SPP over Narrow Angle References: "hotndy.github.io/projects/WideAngleSPP/"
-  Topics & Resources:
-    - VCIP20' Challenge Nir2Rgb: "projects/NIR2RGB_VCIP_Challenge/"
-    - Data & Codes: "pages/data_codes/"
+  #Topics & Resources:
+  #  - VCIP20' Challenge Nir2Rgb: "projects/NIR2RGB_VCIP_Challenge/"
+  #  - Data & Codes: "pages/data_codes/"
     #- Synthetic Rain Dataset: "projects/SPAC/SPAC-Dataset/"
     #- My Notes: "Notes/notesIdx/"
     # - Light Field Depth Estimation: "projects/LFCS/LFCS/"
