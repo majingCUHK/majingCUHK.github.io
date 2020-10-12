@@ -1,5 +1,5 @@
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic & Work Experiences</span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic Services</span></span></p>
 
 - Assistant Professor, [Department of Computer Science](https://www.comp.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong
 - Senior Algorithm Engineer, [Omnivision Technologies Inc.](https://www.ovt.com/), Singapore
