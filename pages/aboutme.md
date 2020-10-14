@@ -1,20 +1,19 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic Services</span></span></p>
 
-- **Program Committee Member**: CIKM 2020, AAAI 2019, ACL 2019, EMNLP 2019, AI 2019
+- **Program Committee Member**: WWW2021, CIKM 2020, AAAI 2019, ACL 2019, EMNLP 2018-2019, AI 2019
 - **Journal Reviewer**:
-    - Post-doctoral Research Fellow, [ST Engineering](https://www.stengg.com/)-NTU Corporate Laboratory, Singapore
-- Ph.D., [School of Electrical and Electronic Engineering](http://www.eee.ntu.edu.sg/), [Nanyang Technological University](http://www.eee.ntu.edu.sg/), Singapore (advised by Assoc. Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/))
-- Research Engineer, Santur Corporation (now acquired by NeoPhotonics), Fuzhou, China
-- M.Eng., School of Optical and Electronic Information, Huazhong University of Science and Technology, Wuhan, China (advised by Assoc. Prof. Yubin Wu)
-- B.Sc., [School of Optical and Electronic Information](http://oei.hust.edu.cn/), [Huazhong University of Science and Technology](http://www.hust.edu.cn/), Wuhan, China
-- [華中師大一附中](http://www.hzsdyfz.com.cn/Category_1/Index.aspx)
+    - Transactions on Knowledge and Data Engineering (TKDE)
+    - ACM Transactions on Intelligent Systems and Technology (TIST)
+    - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
+    - Neurocomputing
+- **External Reviewer**: IJCAI 2020, ACL 2015-2017, EMNLP 2015-2017, SIGIR 2016-2017, CIKM 2016, PACLIC 2016, ASONAM 2016-2019
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
+;<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research Interests</span></span></p>
 
-- Computational Photography (Light fields, HDR+, Computational Tomography)
-- Computer Vision (Image Synthesis, Scene Understanding, VR/AR applications)
-- Novel Imaging Systems and their ISP pipelines
+;- Computational Photography (Light fields, HDR+, Computational Tomography)
+;- Computer Vision (Image Synthesis, Scene Understanding, VR/AR applications)
+;- Novel Imaging Systems and their ISP pipelines
 
 <p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
 
