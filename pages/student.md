@@ -1,5 +1,5 @@
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Postdocs at NTU</span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Postdocs at HKBU</span></span></p>
 
 - None at present
 &emsp;
