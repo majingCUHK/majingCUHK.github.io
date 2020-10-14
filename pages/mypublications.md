@@ -18,14 +18,12 @@ show-avatar: false
 
 ## 2020
 * Debunking Rumors on Twitter with Tree Transformer   
-Jing Ma and Wei Gao    
-COLING 2020: The 28th International Conference on Computational Linguistics, Dec 2020, online
-* Debunking Rumors on Twitter with Tree Transformer  ＜/br＞Jing Ma and Wei Gao  ＜/br＞COLING 2020: The 28th International Conference on Computational Linguistics, Dec 2020, online
-* Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Seatle, USA, 2020
-* **Jie Chen**, Lap-Pui Chau, Junhui Hou, "Surface Consistent Light Field Extrapolation over Stratified Disparity and Spatial Granularities", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
-* Chunle Guo, Jing Jin, Junhui Hou, **Jie Chen**, "Accurate Light Field Depth Estimation via an Occlusion-aware Network", Accepted by _IEEE International Conference on Multimedia & Expo_ **(ICME)**, London, UK, 2020
-* **Jie Chen**, Cheen-Hau Tan, Lap-Pui Chau, "Haze Removal with Fusion of Local and Non-local Statistics", Accepted by _IEEE Symposium on Circuits and Systems_ **(ISCAS)**, Seville, Spain, 2020
-* Zaifeng Yang, Yu Zhong, **Jie Chen**, Hui Min Lee and En-Xiao Liu, "GPU Accelerated FDTD Method for Terahertz Imaging and Computed Tomography", Accepted by _IEEE International Conference on Computational Electromagnetics_ **(ICCEM)**, Singapore, 2020
+**Jing Ma** and Wei Gao    
+**COLING 2020**: The 28th International Conference on Computational Linguistics, Dec 2020, online    
+
+* AnswerFact: Fact Checking in Product Question Answering       
+Wenxuan Zhang, Yang Deng, **Jing Ma** and Wai Lam    
+**EMNLP 2020**: The 2020 Conference on Empirical Methods in Natural Language Processing, Nov 2020, online
 
 ## 2019
 * Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation With Rate-Distortion Optimization," _IEEE Trans. Circuits Syst. Video Techn_, vol. 29, no. 2, pp. 517-530, 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8283506/)]
