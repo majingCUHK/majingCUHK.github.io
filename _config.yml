@@ -32,9 +32,9 @@ navbar-links:
   
   Publications: "pages/mypublications/"  
   
-  Teaching: "pages/services/"
+  Teaching: "pages/teaching/"
   
-  Students: "pages/news/"
+  Students: "pages/student/"
   
   CV: "pages/data_codes/"
 
