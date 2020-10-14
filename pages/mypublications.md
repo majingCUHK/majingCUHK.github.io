@@ -25,7 +25,7 @@ show-avatar: false
 Wenxuan Zhang, Yang Deng, **Jing Ma** and Wai Lam    
 **EMNLP 2020**: The 2020 Conference on Empirical Methods in Natural Language Processing, Nov 2020, online.
 
-* Attention-based Multi-level Feature Fusion for Named Entity Recognition   
+* Attention-based Multi-level Feature Fusion for Named Entity Recognition \[[PDF](https://majingcuhk.github.io/references/IJCAI-2020.pdf)\]   
 Zhiwei Yang, Hechang Chen, Jiawei Zhang, **Jing Ma** and Yi Chang    
 **IJCAI 2020**: The 29th International Joint Conference on Artificial Intelligence, July 2020, Yokohama, Japan.    
 
@@ -33,17 +33,17 @@ Zhiwei Yang, Hechang Chen, Jiawei Zhang, **Jing Ma** and Yi Chang
 **Jing Ma**, Wei Gao, Shafiq Joty, and Kam-Fai Wong    
 **TIST**: ACM Transactions on Intelligent Systems and Technology, pages 1-28.     
 
-* Review-guided Helpful Answer Identification in E-commerce       
+* Review-guided Helpful Answer Identification in E-commerce \[[PDF](https://majingcuhk.github.io/references/WWW-2020.pdf)\]       
 WWenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**    
 **WWW 2020**: The Web Conference 2020, April 2020, Taipei.    
 &emsp;
 
 ## 2019
-* Sentence-Level Evidence Embedding for End-to-End Claim Verification with Hierarchical Attention Networks       
+* Sentence-Level Evidence Embedding for End-to-End Claim Verification with Hierarchical Attention Networks \[[PDF](https://majingcuhk.github.io/references/ACL-2019.pdf)\]       
 **Jing Ma**, Wei Gao, Shafiq Joty, and Kam-Fai Wong    
 **ACL 2019**: The 57th Annual Meeting of the Association for Computational Linguistics, July 2019, Florence, Italy.     
 
-* Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning       
+* Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning \[[PDF](https://majingcuhk.github.io/references/WWW-2019.pdf)\]       
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **WWW 2019**: The Web Conference 2019, May 2019, San Francisco, USA.     
 &emsp;
@@ -53,37 +53,37 @@ WWenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**
 Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava    
 **SNAM**: Social Network Analysis and Mining, 8:64, December 2018, Springer     
 
-* Rumor Detection on Twitter with Tree-structured Recursive Neural Networks       
+* Rumor Detection on Twitter with Tree-structured Recursive Neural Networks \[[PDF](https://majingcuhk.github.io/references/ACL-2018.pdf)\]       
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **ACL 2018**: The 56th Annual Meeting of the Association for Computational Linguistics, July 2018, Melbourne, Australia.     
 
-* Detect Rumor and Stance Jointly by Neural Multi-task Learning       
+* Detect Rumor and Stance Jointly by Neural Multi-task Learning \[[PDF](https://majingcuhk.github.io/references/WWW-2018.pdf)\]       
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **WWW 2018 Companion**: The Web Conference 2018 Companion (Alternate Track on Journalism, MisInformation, and Fact-checking), April 2018, Lyon, France.  
 &emsp;
 
 ## 2017 
-* Detect Rumors in Microblog Posts Using Propagation via Kernel Learning       
+* Detect Rumors in Microblog Posts Using Propagation via Kernel Learning \[[PDF](https://majingcuhk.github.io/references/ACL-2017.pdf)\]       
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **ACL 2017**: The 55th Annual Meeting of the Association for Computational Linguistics, July 2017, Vancouver, Canada.     
 
-* From Retweet to Believability: Utilizing Trust to Identify Rumor Spreaders on Twitter       
+* From Retweet to Believability: Utilizing Trust to Identify Rumor Spreaders on Twitter \[[PDF](https://majingcuhk.github.io/references/ASONAM-2017.pdf)\]       
 Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava        
 **ASONAM 2017**: The 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, August 2017, Sydney, Australia.     
 &emsp;
 
 ## 2016
-* Detecting Rumors from Microblogs with Recurrent Neural Networks       
+* Detecting Rumors from Microblogs with Recurrent Neural Networks \[[PDF](https://majingcuhk.github.io/references/IJCAI-2016.pdf)\]       
 **Jing Ma**, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, and Meeyoung Cha    
 **IJCAI 2016**: The 25th International Joint Conference on Artificial Intelligence, July 2016, New York, USA.     
 &emsp;
 
 ## 2015
-* Detect Rumors Using Time Series of Social Context Information on Microblogging Websites       
+* Detect Rumors Using Time Series of Social Context Information on Microblogging Websites \[[PDF](https://majingcuhk.github.io/references/CIKM-2015.pdf)\]       
 **Jing Ma**, Wei Gao, Zhongyu Wei, Yueming Lu, and Kam-Fai Wong    
 **CIKM 2015**: The 24th ACM International Conference on Information and Knowledge Management, October 2015, Melbourne, Australia. 
 
-* UIR-PKU: Twitter-OpinMiner System for Sentiment Analysis in Twitter at SemEval 2015       
+* UIR-PKU: Twitter-OpinMiner System for Sentiment Analysis in Twitter at SemEval 2015 \[[PDF](https://majingcuhk.github.io/references/SEMEVAL-2015.pdf)\]       
 Xu Han, Binyang Li, **Jing Ma**, Yuxiao Zhang, Gaoyan Ou, Tengjiao Wang, Kam-fai Wong      
 **SemEval 2015**: The 9th International Workshop on Semantic Evaluation, May 2015, Denver, Colorado, USA. 
 &emsp;
