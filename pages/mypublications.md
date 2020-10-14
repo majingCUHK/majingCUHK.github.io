@@ -8,6 +8,14 @@ show-avatar: false
 <!--
 <h3 style="text-align: center;"><span style="text-decoration: underline;"><a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en"><span style="text-align: center; color: #20008c; text-decoration: underline;">Google Scholar</span></a></span></h3>
 -->
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Publications</span></span></p>
+
+- Google scholar listing(https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F551mIgw-VXXPCNTnORGEeOFd0d6pe9et84hAeZgE-H7GckZKnMBIIHzZB598Jm-hRbVGpOoi80XBe0ovOxxMW-cH0jttigq-SlVO2GGmFAyGpUEbc&user=78Jby0EAAAAJ)
+
+&emsp;
+
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, confereces, workshops)</span></span></p>
+
 ## 2020
 * Mantang GUO, Junhui Hou, Jing Jin, **Jie Chen**, and Lap-Pui Chau, "Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures", Accepted by _European Conference on Computer Vision_ **(ECCV)**, 2020
 * Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, "Light Field Spatial Super-resolution via Deep Combinatorial Geometry Embedding and Structural Consistency Regularization", Accepted by _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Seatle, USA, 2020
