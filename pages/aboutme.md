@@ -14,12 +14,3 @@
 
 - to be finished
 
-<p><span style="font-family:georgia,serif; font-size:26px;">Teaching</span></p>
-
-- ITEC2016 Data-Driven Visualisation for the Web [2020-S1] 
-- COMP4025 Interactive Computer Graphics [2019-S2]  
-
-<p><span style="font-family: georgia, serif; font-size: 26px;">Research Group</span></p>
-
-- YANG, Xingxing (BSc. UESTC, PhD student since 2020)
-- XING, Wenpeng (BEng. HIT, PGDip. U Limerick, MPhil/PhD student since 2020)
