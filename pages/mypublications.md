@@ -10,7 +10,7 @@ show-avatar: false
 -->
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Publications</span></span></p>
 
-- Google scholar listing(https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F551mIgw-VXXPCNTnORGEeOFd0d6pe9et84hAeZgE-H7GckZKnMBIIHzZB598Jm-hRbVGpOoi80XBe0ovOxxMW-cH0jttigq-SlVO2GGmFAyGpUEbc&user=78Jby0EAAAAJ)
+- [Google scholar listing](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F551mIgw-VXXPCNTnORGEeOFd0d6pe9et84hAeZgE-H7GckZKnMBIIHzZB598Jm-hRbVGpOoi80XBe0ovOxxMW-cH0jttigq-SlVO2GGmFAyGpUEbc&user=78Jby0EAAAAJ)
 
 &emsp;
 
