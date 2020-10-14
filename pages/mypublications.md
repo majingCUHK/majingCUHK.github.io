@@ -29,7 +29,7 @@ Wenxuan Zhang, Yang Deng, **Jing Ma** and Wai Lam
 Zhiwei Yang, Hechang Chen, Jiawei Zhang, **Jing Ma** and Yi Chang    
 **IJCAI 2020**: The 29th International Joint Conference on Artificial Intelligence, July 2020, Yokohama, Japan.    
 
-* An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks       
+* An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks \[[PDF](https://majingcuhk.github.io/references/TIST-2020.pdf)\]       
 **Jing Ma**, Wei Gao, Shafiq Joty, and Kam-Fai Wong    
 **TIST**: ACM Transactions on Intelligent Systems and Technology, pages 1-28.     
 
