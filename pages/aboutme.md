@@ -1,9 +1,9 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic Services</span></span></p>
 
-- Assistant Professor, [Department of Computer Science](https://www.comp.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong
-- Senior Algorithm Engineer, [Omnivision Technologies Inc.](https://www.ovt.com/), Singapore
-- Post-doctoral Research Fellow, [ST Engineering](https://www.stengg.com/)-NTU Corporate Laboratory, Singapore
+- **Program Committee Member**: CIKM 2020, AAAI 2019, ACL 2019, EMNLP 2019, AI 2019
+- **Journal Reviewer**:
+-- Post-doctoral Research Fellow, [ST Engineering](https://www.stengg.com/)-NTU Corporate Laboratory, Singapore
 - Ph.D., [School of Electrical and Electronic Engineering](http://www.eee.ntu.edu.sg/), [Nanyang Technological University](http://www.eee.ntu.edu.sg/), Singapore (advised by Assoc. Prof. [Lap-Pui Chau](https://www.ntu.edu.sg/home/elpchau/))
 - Research Engineer, Santur Corporation (now acquired by NeoPhotonics), Fuzhou, China
 - M.Eng., School of Optical and Electronic Information, Huazhong University of Science and Technology, Wuhan, China (advised by Assoc. Prof. Yubin Wu)
