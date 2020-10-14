@@ -19,61 +19,75 @@ show-avatar: false
 ## 2020
 * Debunking Rumors on Twitter with Tree Transformer   
 **Jing Ma** and Wei Gao    
-**COLING 2020**: The 28th International Conference on Computational Linguistics, Dec 2020, online    
+**COLING 2020**: The 28th International Conference on Computational Linguistics, Dec 2020, online.    
 
 * AnswerFact: Fact Checking in Product Question Answering       
 Wenxuan Zhang, Yang Deng, **Jing Ma** and Wai Lam    
-**EMNLP 2020**: The 2020 Conference on Empirical Methods in Natural Language Processing, Nov 2020, online
+**EMNLP 2020**: The 2020 Conference on Empirical Methods in Natural Language Processing, Nov 2020, online.
+
+* Attention-based Multi-level Feature Fusion for Named Entity Recognition   
+Zhiwei Yang, Hechang Chen, Jiawei Zhang, **Jing Ma** and Yi Chang    
+**IJCAI 2020**: The 29th International Joint Conference on Artificial Intelligence, July 2020, Yokohama, Japan.    
+
+* An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks       
+**Jing Ma**, Wei Gao, Shafiq Joty, and Kam-Fai Wong    
+**TIST**: ACM Transactions on Intelligent Systems and Technology, pages 1-28.     
+
+* Review-guided Helpful Answer Identification in E-commerce       
+WWenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**    
+**WWW 2020**: The Web Conference 2020, April 2020, Taipei.    
+&emsp;
 
 ## 2019
-* Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation With Rate-Distortion Optimization," _IEEE Trans. Circuits Syst. Video Techn_, vol. 29, no. 2, pp. 517-530, 2019. [[pdf](https://ieeexplore.ieee.org/abstract/document/8283506/)]
-* Henry Wing Fung Yeung, Junhui Hou, Xiaoming Chen, **Jie Chen**, Zhibo Chen, and Yuk Ying Chung, "Light Field Spatial Super-Resolution Using Deep Efficient Spatial-Angular Separable Convolution," _IEEE Trans. Image Processing_, novl. 28, no. 5, pp. 2319-2330, 2019.
-* **Jie Chen**, Lap-Pui Chau, and Junhui Hou, "Stratified Labeling for Surface Consistent Parallax Correction and Occlusion Completion," CoRR abs/1903.02688, 2019.
-* Jing Jin, Junhui Hou, **Jie Chen**, Sam Kwong, and Jingyi Yu, "Learning High-fidelity Light Field Images From Hybrid Inputs," CoRR abs/1907.09640, 2019.
-* Jing Jin, Junhui Hou, **Jie Chen**, Huanqiang Zeng, Sam Kwong, Jingyi Yu, "Flexible, Fast and Accurate Densely-Sampled Light Field Reconstruction Network,” CoRR abs/1909.01341, 2019.
+* Sentence-Level Evidence Embedding for End-to-End Claim Verification with Hierarchical Attention Networks       
+**Jing Ma**, Wei Gao, Shafiq Joty, and Kam-Fai Wong    
+**ACL 2019**: The 57th Annual Meeting of the Association for Computational Linguistics, July 2019, Florence, Italy.     
+
+* Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning       
+**Jing Ma**, Wei Gao, and Kam-Fai Wong    
+**WWW 2019**: The Web Conference 2019, May 2019, San Francisco, USA.     
+&emsp;
 
 ## 2018
-#### _Journal_
-* **Jie Chen**,  Cheen-Hau Tan, Junhui Hou, Lap-Pui. Chau, and He Li, "Robust Video Content Alignment and Compensation for Clear Vision Through the Rain,'' [[pdf](https://arxiv.org/abs/1804.09555)]
-* **Jie Chen**, Junhui Hou, and Lap-Pui. Chau, "Light Field Denoising via Anisotropic Parallax Analysis in a CNN Framework,'' _IEEE Signal Processing Letters_ **(IEEE SPL)**, vol. 25, no. 9, pp. 1403-1407, 2018. [[pdf](https://arxiv.org/abs/1805.12358)\] [[code](https://github.com/hotndy/APA-LFDenoising)] 
-* Yun Ni, **Jie Chen**, and Lap-Pui Chau, "Reflection Removal On Single Light Field Capture With Focus Manipulation,'' accepted by _IEEE Transactions on Computational Imaging_ **(IEEE TCI)**. [[pdf](https://ieeexplore.ieee.org/document/8421062/)]
-* **Jie Chen**, Junhui Hou, Yun Ni, and Lap-Pui. Chau, "Accurate Light Field Depth Estimation with Superpixel Regularization over Partially Occluded Regions,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 27, no. 10, pp. 4889-4900, 2018. [[pdf](https://arxiv.org/abs/1708.01964)] [[code](https://github.com/hotndy/LFDepth_POBR)]    
-* Junhui Hou, **Jie Chen**, and Lap-Pui Chau, "Light Field Image Compression Based on Bi-Level View Compensation with Rate Distortion Optimization,'' _IEEE Transactions on Circuits and Systems for Video Technology_ **(IEEE TCSVT)**, 2018. 
-* Shaohui Mei, Junhui Hou, **Jie Chen**, Lap-Pui Chau, and Qian Du, "Simultaneous Spatial and Spectral Low-Rank Representation of Hyperspectral Images for Classification,'' _IEEE Transactions on Geoscience and Remote Sensing_ **(IEEE TGARS)**, vol. 56, no. 5, pp. 2872-2886, 2018. [[pdf](https://ieeexplore.ieee.org/abstract/document/8248629/)]
-* **Jie Chen**, Junhui Hou, and Lap-Pui Chau, "Light Field Compression with Disparity Guided Sparse Coding based on Structural Key Views,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 27, no. 1, pp. 314-324, 2018. [[pdf](http://ieeexplore.ieee.org/document/8030107/)] [[data](https://github.com/hotndy/SC-SKV)]
-  
-#### _Conference_
-* Henry Yeung, Junhui Hou, **Jie Chen**, Yuk Ying Chung, and Xiaoming Chen, "Fast Light Field ReconstructionWith Deep Coarse-To-Fine Modeling of Spatial-Angular Clues,'' accepted by _European Conference on Computer Vision_ **(ECCV)**, Munich, Germany, 2018. [[pdf]()]
-* **Jie Chen**, Cheen-Hau Tan, Junhui Hou, Lap-Pui Chau, and He Li, "Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework,'' spotlight on _IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR)**, Salt Lake City, Utah, 2018. [[pdf](https://arxiv.org/abs/1708.01964)] [[dataset](https://github.com/hotndy/SPAC-SupplementaryMaterials)] [[code](https://bitbucket.org/st_ntu_corplab/mrp2a/src/bd2633dbc9912b833de156c799fdeb82747c1240?at=master)]
-* Shengyu Nan, **Jie Chen**, Lap-Pui Chau, and Kemao Qian, "Learning-Based Parallax Transfer on Multispectral Light Field,'' accepted by _IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 1-5, Shanghai, China, 2018.    
-* Cheen-Hau Tan, **Jie Chen**, Yun Ni, Lap-Pui Chau, and Ling Min Soh, "Vision-Based Rain Gauge for Dynamic Scenes,'' accepted by _IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 1-5, Shanghai, China, 2018.   
-* Jing Jin, Junhui Hou, **Jie Chen**, Henry Yeung, and Sam Kwong, "Light Field Spatial Super-resolution via CNN Guided by A Single High-resolution RGB Image,'' accepted by _IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 1-5, Shanghai, China, 2018.  
+* Utilizing Computational Trust to Identify Rumor Spreaders on Twitter       
+Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava    
+**SNAM**: Social Network Analysis and Mining, 8:64, December 2018, Springer     
 
+* Rumor Detection on Twitter with Tree-structured Recursive Neural Networks       
+**Jing Ma**, Wei Gao, and Kam-Fai Wong    
+**ACL 2018**: The 56th Annual Meeting of the Association for Computational Linguistics, July 2018, Melbourne, Australia.     
+
+* Detect Rumor and Stance Jointly by Neural Multi-task Learning       
+**Jing Ma**, Wei Gao, and Kam-Fai Wong    
+**WWW 2018 Companion**: The Web Conference 2018 Companion (Alternate Track on Journalism, MisInformation, and Fact-checking), April 2018, Lyon, France.  
+&emsp;
 
 ## 2017 
-#### _Journal_
-* **Jie Chen** and Lap-Pui Chau, "Light Field Compressed Sensing Over a Disparity-Aware Dictionary,'' _IEEE Transactions on Circuits and Systems for Video Technology_ **(IEEE TCSVT)**, vol. 27, no. 4, pp. 855-865, 2017. [[pdf](http://ieeexplore.ieee.org/document/7368916/)]
-  
-#### _Conference_
-* **Jie Chen**, Yun Ni, Junhui Hou, and Lap-Pui Chau, "Light Field Scene Flow with Occlusion Regularization,'' _Asia-Pacific Signal and Information Processing Association Annual Summit and Conference_ **(APSIPA ASC)**, Kuala Lumpur, Malaysia, 2017. [[pdf](https://ieeexplore.ieee.org/abstract/document/8282200/)]  
-* Cheen-Hau Tan, **Jie Chen**, and Lap-Pui Chau, "Edge-preserving rain removal for light field images based on RPCA,'' _IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 1-5, London, UK, 2017. [[pdf](http://ieeexplore.ieee.org/document/8096066/)]
-* Yun Ni, **Jie Chen**, and Lap-Pui Chau, "Reflection removal based on single light field capture,'' _IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 1-4, Baltimore, USA, 2017. [[pdf](https://ieeexplore.ieee.org/document/8050813/)]  
+* Detect Rumors in Microblog Posts Using Propagation via Kernel Learning       
+**Jing Ma**, Wei Gao, and Kam-Fai Wong    
+**ACL 2017**: The 55th Annual Meeting of the Association for Computational Linguistics, July 2017, Vancouver, Canada.     
 
-## Before 2016  
-#### _Journal_
-* **Jie Chen** and Lap-Pui Chau, "Multiscale Dictionary Learning via Cross-Scale Cooperative Learning and Atom Clustering for Visual Signal Processing,'' _IEEE Transactions on Circuits and Systems for Video Technology_ **(IEEE TCSVT)**, vol. 25, no. 9, pp. 1457-1468, 2015. [[pdf](http://ieeexplore.ieee.org/document/7014226/)]
-* **Jie Chen** and Lap-Pui Chau, "A Rain Pixel Recovery Algorithm for Videos With Highly Dynamic Scenes,'' _IEEE Transactions on Image Processing_ **(IEEE TIP)**, vol. 23, no. 3, pp. 1097-1104, 2014. [[pdf](http://ieeexplore.ieee.org/document/6662475/)]
-  
-#### _Conference_  
-* Yun Ni, **Jie Chen**, and Lap-Pui Chau, "Reflection removal based on single light field capture,'' _IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 1-4, Baltimore, USA, 2017. [[pdf](https://ieeexplore.ieee.org/document/8050813/)] 
-* **Jie Chen**, Lap-Pui Chau and He Li, "Light field depth from multi-scale particle filtering,'' _Asia-Pacific Signal and Information Processing Association Annual Summit and Conference_ **(APSIPA ASC)**, pp. 1-6, Jeju, Korea, 2016. [[pdf](http://ieeexplore.ieee.org/document/7820906/)] [[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:iX2aOtnJGo8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW2e5b0ebXZt3Qgmwg-wxv0qNE_m09edP&scisf=4&ct=citation&cd=-1&hl=en)] 
-* Junhui Hou, **Jie Chen**, Lap-Pui. Chau, and Y. He, "Sparse Two-Dimensional Singular Value Decomposition,'' _IEEE International Conference on Multimedia & Expo_ **(ICME)**, pp. 1-6, Seattle, USA,  2016. [[pdf](http://ieeexplore.ieee.org/document/7552922/)]
-* **Jie Chen**, and Lap-Pui Chau. "Heavy Haze Removal in A Learning Framework,'' _IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 1590-1593, Lisbon, Portugal, 2015. [[pdf](http://ieeexplore.ieee.org/document/7168952/)]  
-* **Jie Chen**, and Lap-Pui Chau. "A Fast Adaptive Guided Filtering Algorithm for Light Field Depth Interpolation,'' _IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 2281-2284, Melbourne, Australia, 2014. [[pdf](http://ieeexplore.ieee.org/document/6865626/)] [[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:NAnqkgl-FLwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW2e4ZukMNrSAojDf_9x2lSLnlGpebvNy&scisf=4&ct=citation&cd=-1&hl=en)]
-* **Jie Chen**, Alexander Matyasko, and Lap-Pui Chau, "A Light Field Sparse Representation Structure and Its Fast Coding Technique,'' _IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 214-218, Hongkong, China, 2014. [[pdf](http://ieeexplore.ieee.org/document/6900831/)]
-* Cheen-Hau Tan, **Jie Chen**, and Lap-Pui Chau, "Dynamic scene rain removal for moving cameras,'' _IEEE International Conference on Digital Signal Processing_ **(DSP)**, pp. 372-376, Hongkong, China, 2014. [[pdf](http://ieeexplore.ieee.org/document/6900689/)]
-* **Jie Chen**, and Lap-Pui Chau, "Rain removal from dynamic scene based on motion segmentation,'' _IEEE International Symposium on Circuits and Systems_ **(ISCAS)**, pp. 2139-2142, Beijing, China, 2013. [[pdf](http://ieeexplore.ieee.org/document/6572297/)]  
-* **Jie Chen**, and Lap-Pui Chau, "An Enhanced Window-Variant Dark Channel Prior for Depth Estimation Using Single Foggy Image,'' _IEEE International Conference on Image Processing_ **(ICIP)**, pp. 3508-3512, Melbourne, Australia, 2013. [[pdf](http://ieeexplore.ieee.org/document/6738724/)]
-* Shuigen Wang, Chenwei Deng, Weisi Lin, Baojun Zhao, and **Jie Chen**, "A novel SVD-based image quality assessment metric,'' _IEEE International Conference on Image Processing_ **(ICIP)**, pp. 423-426, Melbourne, Australia, 2013. [[pdf](http://ieeexplore.ieee.org/document/6738087/)]
-* Junhui Hou, Lap-Pui Chau, Ying He, **Jie Chen**, and Nadia Magnenat-Thalmann, "Human motion capture data recovery via trajectory-based sparse representation,'' _IEEE International Conference on Image Processing_ **(ICIP)**, pp. 709-713, Melbourne, Australia, 2013. [[pdf](http://ieeexplore.ieee.org/abstract/document/6738146/)]
+* From Retweet to Believability: Utilizing Trust to Identify Rumor Spreaders on Twitter       
+Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava        
+**ASONAM 2017**: The 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, August 2017, Sydney, Australia.     
+&emsp;
+
+## 2016
+* Detecting Rumors from Microblogs with Recurrent Neural Networks       
+**Jing Ma**, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, and Meeyoung Cha    
+**IJCAI 2016**: The 25th International Joint Conference on Artificial Intelligence, July 2016, New York, USA.     
+&emsp;
+
+## 2015
+* Detect Rumors Using Time Series of Social Context Information on Microblogging Websites       
+**Jing Ma**, Wei Gao, Zhongyu Wei, Yueming Lu, and Kam-Fai Wong    
+**CIKM 2015**: The 24th ACM International Conference on Information and Knowledge Management, October 2015, Melbourne, Australia. 
+
+* UIR-PKU: Twitter-OpinMiner System for Sentiment Analysis in Twitter at SemEval 2015       
+Xu Han, Binyang Li, **Jing Ma**, Yuxiao Zhang, Gaoyan Ou, Tengjiao Wang, Kam-fai Wong      
+**SemEval 2015**: The 9th International Workshop on Semantic Evaluation, May 2015, Denver, Colorado, USA. 
+&emsp;
+
+## Before 2015  
+
  
