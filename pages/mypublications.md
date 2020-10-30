@@ -17,7 +17,7 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, confereces, workshops)</span></span></p>
 
 ## 2020
-* Debunking Rumors on Twitter with Tree Transformer   
+* Debunking Rumors on Twitter with Tree Transformer \[[PDF](https://majingcuhk.github.io/references/COLING-2020.pdf)\]   
 **Jing Ma** and Wei Gao    
 **COLING 2020**: The 28th International Conference on Computational Linguistics, Dec 2020, online.    
 
