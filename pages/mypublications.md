@@ -17,7 +17,7 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, confereces, workshops)</span></span></p>
 
 ## 2021
-* Improving Rumor Detection by Promoting Information Campaigns with Transformer-based Generative Adversarial Learning
+* Improving Rumor Detection by Promoting Information Campaigns with Transformer-based Generative Adversarial Learning 
 **Jing Ma**,  Jun Li, Wei Gao, Yang Yang, and Kam-Fai Wong  
 **TKDE**: The IEEE Transactions on Knowledge and Data Engineering (Minor revision).    
 
