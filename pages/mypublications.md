@@ -16,6 +16,20 @@ show-avatar: false
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, confereces, workshops)</span></span></p>
 
+## 2021
+* Improving Rumor Detection by Promoting Information Campaigns with Transformer-based Generative Adversarial Learning
+**Jing Ma**,  Jun Li, Wei Gao, Yang Yang, and Kam-Fai Wong  
+**TKDE**: The IEEE Transactions on Knowledge and Data Engineering (Minor revision).    
+
+* Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks       
+Hongzhan Lin, **Jing Ma**, Mingfei Cheng, Zhiwei Yang, Liangliang Chen and Guang Chen    
+**EMNLP 2021**: The 2021 Conference on Empirical Methods in Natural Language Processing, Nov 2021, online.
+
+* HiTRANS: A Hierarchical Transformer Network for Nested Named Entity Recognition       
+Zhiwei Yang, **Jing Ma**, Hechang Chen, Yunke Zhang and Yi Chang    
+**EMNLP 2021**: The 2021 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2021. 
+&emsp;
+
 ## 2020
 * Debunking Rumors on Twitter with Tree Transformer \[[PDF](https://majingcuhk.github.io/references/COLING-2020.pdf)\]   
 **Jing Ma** and Wei Gao    
