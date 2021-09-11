@@ -19,7 +19,7 @@ show-avatar: false
 ## 2021
 * Improving Rumor Detection by Promoting Information Campaigns with Transformer-based Generative Adversarial Learning 
 **Jing Ma**,  Jun Li, Wei Gao, Yang Yang, and Kam-Fai Wong  
-**TKDE**: The IEEE Transactions on Knowledge and Data Engineering (Minor revision).    
+**TKDE**: The IEEE Transactions on Knowledge and Data Engineering.    
 
 * Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks       
 Hongzhan Lin, **Jing Ma**, Mingfei Cheng, Zhiwei Yang, Liangliang Chen and Guang Chen    
