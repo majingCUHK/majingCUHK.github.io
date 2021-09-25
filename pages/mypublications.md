@@ -32,7 +32,6 @@ Zhiwei Yang, **Jing Ma**, Hechang Chen, Yunke Zhang and Yi Chang
 * Cross-lingual COVID-19 Fake News Detection       
 Jiangshu Du, Yingtong Dou, Congying Xia, Limeng Cui, **Jing Ma**, and Philip Yu    
 **SDM 2021**: The First IEEE International Workshop on Social Data Mining in the Post-pandemic Era @ ICDM 2021. 
-
 &emsp;
 
 ## 2020
