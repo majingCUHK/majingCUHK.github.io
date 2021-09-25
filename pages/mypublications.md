@@ -28,6 +28,11 @@ Hongzhan Lin, **Jing Ma**, Mingfei Cheng, Zhiwei Yang, Liangliang Chen and Guang
 * HiTRANS: A Hierarchical Transformer Network for Nested Named Entity Recognition       
 Zhiwei Yang, **Jing Ma**, Hechang Chen, Yunke Zhang and Yi Chang    
 **EMNLP 2021**: The 2021 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2021. 
+
+* Cross-lingual COVID-19 Fake News Detection       
+Jiangshu Du, Yingtong Dou, Congying Xia, Limeng Cui, **Jing Ma**, and Philip Yu    
+**SDM 2021**: The First IEEE International Workshop on Social Data Mining in the Post-pandemic Era @ ICDM 2021. 
+
 &emsp;
 
 ## 2020
