@@ -17,7 +17,7 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, confereces, workshops)</span></span></p>
 
 ## 2021
-* Improving Rumor Detection by Promoting Information Campaigns with Transformer-based Generative Adversarial Learning        
+* Improving Rumor Detection by Promoting Information Campaigns with Transformer-based Generative Adversarial Learning \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9540337)\]       
 **Jing Ma**,  Jun Li, Wei Gao, Yang Yang, and Kam-Fai Wong  
 **TKDE**: The IEEE Transactions on Knowledge and Data Engineering.    
 
@@ -29,7 +29,7 @@ Hongzhan Lin, **Jing Ma**, Mingfei Cheng, Zhiwei Yang, Liangliang Chen and Guang
 Zhiwei Yang, **Jing Ma**, Hechang Chen, Yunke Zhang and Yi Chang    
 **EMNLP 2021**: The 2021 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2021. 
 
-* Cross-lingual COVID-19 Fake News Detection       
+* Cross-lingual COVID-19 Fake News Detection \[[PDF](https://arxiv.org/pdf/2110.06495.pdf)\]      
 Jiangshu Du, Yingtong Dou, Congying Xia, Limeng Cui, **Jing Ma**, and Philip Yu    
 **SDM 2021**: The First IEEE International Workshop on Social Data Mining in the Post-pandemic Era @ ICDM 2021. 
 &emsp;
