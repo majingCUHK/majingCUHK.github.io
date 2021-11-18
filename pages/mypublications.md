@@ -21,11 +21,11 @@ show-avatar: false
 **Jing Ma**,  Jun Li, Wei Gao, Yang Yang, and Kam-Fai Wong  
 **TKDE**: The IEEE Transactions on Knowledge and Data Engineering.    
 
-* Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks       
+* Rumor Detection on Twitter with Claim-Guided Hierarchical Graph Attention Networks \[[PDF](https://majingcuhk.github.io/references/EMNLP-2021.pdf)\]     
 Hongzhan Lin, **Jing Ma**, Mingfei Cheng, Zhiwei Yang, Liangliang Chen and Guang Chen    
 **EMNLP 2021**: The 2021 Conference on Empirical Methods in Natural Language Processing, Nov 2021, online.
 
-* HiTRANS: A Hierarchical Transformer Network for Nested Named Entity Recognition       
+* HiTRANS: A Hierarchical Transformer Network for Nested Named Entity Recognition \[[PDF](https://majingcuhk.github.io/references/EMNLP-2021-finding.pdf)\]      
 Zhiwei Yang, **Jing Ma**, Hechang Chen, Yunke Zhang and Yi Chang    
 **EMNLP 2021**: The 2021 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2021. 
 
