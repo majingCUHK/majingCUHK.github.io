@@ -4,9 +4,10 @@
 - **Session Chair**: COLING 2020
 - **Program Committee Member**: WWW 2021, CIKM 2020, AAAI 2019-2022, ACL 2019, EMNLP 2018-2019, AI 2019
 - **Journal Reviewer**:
-    - Transactions on Knowledge and Data Engineering (TKDE)
+    - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - ACM Transactions on Intelligent Systems and Technology (TIST)
     - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
+    - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
     - Neurocomputing
 - **External Reviewer**: IJCAI 2020, ACL 2015-2017, EMNLP 2015-2017, SIGIR 2016-2017, CIKM 2016, PACLIC 2016, ASONAM 2016-2019  
 &emsp;    
