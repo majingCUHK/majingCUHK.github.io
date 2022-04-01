@@ -16,6 +16,12 @@ show-avatar: false
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, confereces, workshops)</span></span></p>
 
+## 2022
+* A Weakly Supervised Propagation Model for Rumor Verification and Stance Detection with Multiple Instance Learning      
+Ruichao Yang, **Jing Ma**, Hongzhan Lin and Wei Gao    
+**SIGIR 2022**: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Jul 2022, Madrid.
+&emsp;
+
 ## 2021
 * Improving Rumor Detection by Promoting Information Campaigns with Transformer-based Generative Adversarial Learning \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9540337)\]       
 **Jing Ma**,  Jun Li, Wei Gao, Yang Yang, and Kam-Fai Wong  
