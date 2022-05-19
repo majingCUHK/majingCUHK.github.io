@@ -12,6 +12,11 @@
 - **External Reviewer**: IJCAI 2020, ACL 2015-2017, EMNLP 2015-2017, SIGIR 2016-2017, CIKM 2016, PACLIC 2016, ASONAM 2016-2019  
 &emsp;    
 
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Recognition, Achievements, and Events</span></span></p>
+
+- **Top Five Outstanding TIST Articles** for Jing Ma, Wei Gao, Shafiq Joty, and Kam-Fai Wong, An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks, TIST (2020), pages 1-28. 
+- Recognised as one of “The 2022 Women in AI” by AMiner.
+
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Invited Talks</span></span></p>
 
 - to be finished
