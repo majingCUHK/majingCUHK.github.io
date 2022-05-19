@@ -28,6 +28,10 @@ Hongzhan Lin, **Jing Ma**, Liangliang Chen, Zhiwei Yang, Mingfei Cheng, Guang Ch
 * A Weakly Supervised Propagation Model for Rumor Verification and Stance Detection with Multiple Instance Learning      
 Ruichao Yang, **Jing Ma**, Hongzhan Lin and Wei Gao    
 **SIGIR 2022**: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Jul 2022, Madrid.
+
+* AMIF: A Hybrid Model for Improving Fact Checking in Product Question Answering          
+Hongzhan Lin, Liangliang Chen, **Jing Ma**, Zhiwei Yang and Guang Chen    
+**IJCNN 2022**: 2022 International Joint Conference on Neural Networks, Jul 2022, Padua, Italy.
 &emsp;
 
 ## 2021
