@@ -32,6 +32,10 @@ Ruichao Yang, **Jing Ma**, Hongzhan Lin and Wei Gao
 * AMIF: A Hybrid Model for Improving Fact Checking in Product Question Answering          
 Hongzhan Lin, Liangliang Chen, **Jing Ma**, Zhiwei Yang and Guang Chen    
 **IJCNN 2022**: 2022 International Joint Conference on Neural Networks, Jul 2022, Padua, Italy.
+
+* Context-aware Attentive Multi-level Feature Fusion for Named Entity Recognition           
+Zhiwei Yang, **Jing Ma**, Hechang Chen, Jiawei Zhang and Yi Chang  
+**TNNLS**: IEEE Transactions on Neural Networks and Learning Systems.
 &emsp;
 
 ## 2021
