@@ -17,6 +17,10 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, confereces, workshops)</span></span></p>
 
 ## 2022
+* A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection   
+Zhiwei Yang, **Jing Ma**, Hechang Chen, Hongzhan Lin, Ziyang Luo and Yi Chang       
+**COLING 2022**: The 29th International Conference on Computational Linguistics, Oct 2022, Gyeongju. 
+
 * DecBERT: Enhancing the Language Understanding of BERT with Causal Attention Masks      
 Ziyang Luo, Yadong Xi, **Jing Ma**, Zhiwei Yang, Xiaoxi Mao, Changjie Fan, Rongsheng Zhang    
 **NAACL 2022**: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Jul 2022, Seattle.
