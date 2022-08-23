@@ -14,14 +14,15 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Recognition, Achievements, and Events</span></span></p>
 
-- **Top Five Outstanding TIST Articles** for Jing Ma, Wei Gao, Shafiq Joty, and Kam-Fai Wong, An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks, TIST (2020), pages 1-28. 
-- Recognised as one of “The 2022 Women in AI” by AMiner.
+- **Top Five Outstanding TIST Articles** for Jing Ma, Wei Gao, Shafiq Joty, and Kam-Fai Wong, An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks, TIST (2020), pages 1-28.  
+- Recognised as one of “The 2022 Women in AI” by AMiner.  
 &emsp; 
+
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Invited Talks</span></span></p>
 
-- “Combating Misinformation in the Era of Social Media” at Fudan University, China, Jul 1st, 2022. 
-- “Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning” at Singapore Management University, Singapore, Apr 3rd, 2019.
-- “Introduction to Rumor-related Research from Social media” at Beijing University of Posts and Telecommunications, China, Mar 29th, 2018.
-- “Deep Neural Models on Rumor Detection from Social Media” at University of Electric Science and Technology of China, China, Sep 9th, 2018.
+- “Combating Misinformation in the Era of Social Media” at Fudan University, China, Jul 1st, 2022.  
+- “Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning” at Singapore Management University, Singapore, Apr 3rd, 2019. 
+- “Introduction to Rumor-related Research from Social media” at Beijing University of Posts and Telecommunications, China, Mar 29th, 2018. 
+- “Deep Neural Models on Rumor Detection from Social Media” at University of Electric Science and Technology of China, China, Sep 9th, 2018. 
 
