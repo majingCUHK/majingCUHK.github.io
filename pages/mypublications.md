@@ -21,15 +21,15 @@ show-avatar: false
 Zhiwei Yang, **Jing Ma**, Hechang Chen, Hongzhan Lin, Ziyang Luo and Yi Chang       
 **COLING 2022**: The 29th International Conference on Computational Linguistics, Oct 2022, Gyeongju. 
 
-* DecBERT: Enhancing the Language Understanding of BERT with Causal Attention Masks      
+* DecBERT: Enhancing the Language Understanding of BERT with Causal Attention Masks \[[PDF](https://majingcuhk.github.io/references/NAACL-find-Luo-2022.pdf)\]        
 Ziyang Luo, Yadong Xi, **Jing Ma**, Zhiwei Yang, Xiaoxi Mao, Changjie Fan, Rongsheng Zhang    
 **NAACL 2022**: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Jul 2022, Seattle.
 
-* Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning      
+* Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning \[[PDF](https://majingcuhk.github.io/references/NAACL-find-Lin-2022.pdf)\]     
 Hongzhan Lin, **Jing Ma**, Liangliang Chen, Zhiwei Yang, Mingfei Cheng, Guang Chen    
 **NAACL 2022**: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Jul 2022, Seattle.
 
-* A Weakly Supervised Propagation Model for Rumor Verification and Stance Detection with Multiple Instance Learning      
+* A Weakly Supervised Propagation Model for Rumor Verification and Stance Detection with Multiple Instance Learning \[[PDF](https://majingcuhk.github.io/references/SIGIR-2022.pdf)\]        
 Ruichao Yang, **Jing Ma**, Hongzhan Lin and Wei Gao    
 **SIGIR 2022**: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Jul 2022, Madrid.
 
@@ -37,7 +37,7 @@ Ruichao Yang, **Jing Ma**, Hongzhan Lin and Wei Gao
 Hongzhan Lin, Liangliang Chen, **Jing Ma**, Zhiwei Yang and Guang Chen    
 **IJCNN 2022**: 2022 International Joint Conference on Neural Networks, Jul 2022, Padua, Italy.
 
-* Context-aware Attentive Multi-level Feature Fusion for Named Entity Recognition           
+* Context-aware Attentive Multi-level Feature Fusion for Named Entity Recognition \[[PDF](https://majingcuhk.github.io/references/TNNLS-2022.pdf)\]             
 Zhiwei Yang, **Jing Ma**, Hechang Chen, Jiawei Zhang and Yi Chang  
 **TNNLS**: IEEE Transactions on Neural Networks and Learning Systems.
 &emsp;
