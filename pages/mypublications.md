@@ -14,7 +14,7 @@ show-avatar: false
 
 &emsp;
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, confereces, workshops)</span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2022
 * A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection   
