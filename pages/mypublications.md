@@ -107,7 +107,7 @@ Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava
 &emsp;
 
 ## 2017 
-* Detect Rumors in Microblog Posts Using Propagation via Kernel Learning \[[PDF](https://majingcuhk.github.io/references/ACL-2017.pdf)\]       
+* Detect Rumors in Microblog Posts Using Propagation via Kernel Learning \[[PDF](https://majingcuhk.github.io/references/ACL-2017.pdf)\] \[[DATA](https://www.dropbox.com/s/blkchnv7ojr1ai5/rumdetect2017.zip?dl=0)\]        
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **ACL 2017**: The 55th Annual Meeting of the Association for Computational Linguistics, July 2017, Vancouver, Canada.     
 
