@@ -97,7 +97,7 @@ WWenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**
 Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava    
 **SNAM**: Social Network Analysis and Mining, 8:64, December 2018, Springer     
 
-* Rumor Detection on Twitter with Tree-structured Recursive Neural Networks \[[PDF](https://majingcuhk.github.io/references/ACL-2018.pdf)\]       
+* Rumor Detection on Twitter with Tree-structured Recursive Neural Networks \[[PDF](https://majingcuhk.github.io/references/ACL-2018.pdf)\] \[[CODE](https://github.com/majingCUHK/Rumor_RvNN)\]       
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **ACL 2018**: The 56th Annual Meeting of the Association for Computational Linguistics, July 2018, Melbourne, Australia.     
 
