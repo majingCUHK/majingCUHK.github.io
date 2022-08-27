@@ -117,7 +117,7 @@ Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava
 &emsp;
 
 ## 2016
-* Detecting Rumors from Microblogs with Recurrent Neural Networks \[[PDF](https://majingcuhk.github.io/references/IJCAI-2016.pdf)\]       
+* Detecting Rumors from Microblogs with Recurrent Neural Networks \[[PDF](https://majingcuhk.github.io/references/IJCAI-2016.pdf)\] \[[DATA](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)\]       
 **Jing Ma**, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, and Meeyoung Cha    
 **IJCAI 2016**: The 25th International Joint Conference on Artificial Intelligence, July 2016, New York, USA.     
 &emsp;
