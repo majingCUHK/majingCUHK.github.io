@@ -87,7 +87,7 @@ WWenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**
 **Jing Ma**, Wei Gao, Shafiq Joty, and Kam-Fai Wong    
 **ACL 2019**: The 57th Annual Meeting of the Association for Computational Linguistics, July 2019, Florence, Italy.     
 
-* Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning \[[PDF](https://majingcuhk.github.io/references/WWW-2019.pdf)\]       
+* Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning \[[PDF](https://majingcuhk.github.io/references/WWW-2019.pdf)\] \[[CODE](https://github.com/majingCUHK/Rumor_GAN)\]       
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **WWW 2019**: The Web Conference 2019, May 2019, San Francisco, USA.     
 &emsp;
