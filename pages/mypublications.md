@@ -65,7 +65,7 @@ Jiangshu Du, Yingtong Dou, Congying Xia, Limeng Cui, **Jing Ma**, and Philip Yu
 **Jing Ma** and Wei Gao    
 **COLING 2020**: The 28th International Conference on Computational Linguistics, Dec 2020, online.    
 
-* AnswerFact: Fact Checking in Product Question Answering       
+* AnswerFact: Fact Checking in Product Question Answering \[[PDF](https://majingcuhk.github.io/references/EMNLP-2020-ZWX.pdf)\]      
 Wenxuan Zhang, Yang Deng, **Jing Ma** and Wai Lam    
 **EMNLP 2020**: The 2020 Conference on Empirical Methods in Natural Language Processing, Nov 2020, online.
 
