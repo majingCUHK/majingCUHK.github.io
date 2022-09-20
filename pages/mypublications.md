@@ -17,7 +17,7 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2022
-* A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection   
+* A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection \[[DATA](https://github.com/Nicozwy/CofCED)\]   
 Zhiwei Yang, **Jing Ma**, Hechang Chen, Hongzhan Lin, Ziyang Luo and Yi Chang       
 **COLING 2022**: The 29th International Conference on Computational Linguistics, Oct 2022, Gyeongju. 
 
@@ -25,7 +25,7 @@ Zhiwei Yang, **Jing Ma**, Hechang Chen, Hongzhan Lin, Ziyang Luo and Yi Chang
 Ziyang Luo, Yadong Xi, **Jing Ma**, Zhiwei Yang, Xiaoxi Mao, Changjie Fan, Rongsheng Zhang    
 **NAACL 2022**: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Jul 2022, Seattle.
 
-* Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning \[[PDF](https://majingcuhk.github.io/references/NAACL-find-Lin-2022.pdf)\]     
+* Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning \[[PDF](https://majingcuhk.github.io/references/NAACL-find-Lin-2022.pdf)\] \[[DATA](https://drive.google.com/drive/folders/1gvuSeorLAljGZaD7gyWrUA0gyotT_rl6)\]      
 Hongzhan Lin, **Jing Ma**, Liangliang Chen, Zhiwei Yang, Mingfei Cheng, Guang Chen    
 **NAACL 2022**: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Jul 2022, Seattle.
 
