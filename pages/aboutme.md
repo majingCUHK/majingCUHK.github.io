@@ -21,6 +21,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Invited Talks</span></span></p>
 
+- “Combating Misinformation in the Era of Social Media” at Jilin University, China, Sep 13rd, 2022. 
 - “Combating Misinformation in the Era of Social Media” at Fudan University, China, Jul 1st, 2022.  
 - “Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning” at Singapore Management University, Singapore, Apr 3rd, 2019. 
 - “Introduction to Rumor-related Research from Social media” at Beijing University of Posts and Telecommunications, China, Mar 29th, 2018. 
