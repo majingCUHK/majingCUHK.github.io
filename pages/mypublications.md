@@ -93,7 +93,7 @@ WWenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**
 &emsp;
 
 ## 2018
-* Utilizing Computational Trust to Identify Rumor Spreaders on Twitter       
+* Utilizing Computational Trust to Identify Rumor Spreaders on Twitter \[[PDF](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5549&context=sis_research)\]       
 Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava    
 **SNAM**: Social Network Analysis and Mining, 8:64, December 2018, Springer     
 
