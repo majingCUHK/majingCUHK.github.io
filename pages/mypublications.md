@@ -18,6 +18,10 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2022
+* Conditioned Masked Language and Image Modeling for Image-Text Dense Retrieval            
+Ziyang Luo, Yadong Xi, Rongsheng Zhang, Gongzheng Li, Zeng Zhao, **Jing Ma**        
+**EMNLP 2022**: The 2022 Conference on Empirical Methods in Natural Language Processing, Dec 2022, Abu. 
+
 * A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection \[[DATA](https://github.com/Nicozwy/CofCED)\]   
 Zhiwei Yang, **Jing Ma**, Hechang Chen, Hongzhan Lin, Ziyang Luo and Yi Chang       
 **COLING 2022**: The 29th International Conference on Computational Linguistics, Oct 2022, Gyeongju. 
