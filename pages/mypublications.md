@@ -22,7 +22,7 @@ show-avatar: false
 Ziyang Luo, Yadong Xi, Rongsheng Zhang, Gongzheng Li, Zeng Zhao, **Jing Ma**        
 **EMNLP 2022**: The 2022 Conference on Empirical Methods in Natural Language Processing, Dec 2022, Abu. 
 
-* A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection \[[DATA](https://github.com/Nicozwy/CofCED)\]   
+* A Coarse-to-fine Cascaded Evidence-Distillation Neural Network for Explainable Fake News Detection \[[DATA](https://github.com/Nicozwy/CofCED)\] \[[PDF](https://majingcuhk.github.io/references/COLING-2022.pdf)\]  
 Zhiwei Yang, **Jing Ma**, Hechang Chen, Hongzhan Lin, Ziyang Luo and Yi Chang       
 **COLING 2022**: The 29th International Conference on Computational Linguistics, Oct 2022, Gyeongju. 
 
