@@ -21,5 +21,5 @@
 
 - YANG, Zhiwei  [PhD, Jilin University, Mar, 2021 - Dec, 2022 ]
 - LIN, Hongzhan [Msc, Beijing University of Posts and Telecommunications, Jun, 2021 - Nov, 2021 ]
-- PENG, Likai [Msc, Nanyang Techonogical University, Oct, 2021 - Oct, 2021 ]
+- PENG, Likai [Msc, Nanyang Techonogical University, Oct, 2021 - Oct, 2022 ]
 &emsp;
