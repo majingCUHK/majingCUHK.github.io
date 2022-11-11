@@ -2,7 +2,7 @@
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic Services</span></span></p>
 
 - **Session Chair**: COLING 2020
-- **Program Committee Member**: WSDM 2023, AACL 2022, WWW 2021 2023, CIKM 2020, AAAI 2019-2022, ACL 2019, EMNLP 2018-2019, AI 2019
+- **Program Committee Member**: WSDM 2023, EACL 2023, AACL 2022, WWW 2021 2023, CIKM 2020, AAAI 2019-2022, ACL 2019, EMNLP 2018-2019, AI 2019
 - **Journal Reviewer**:
     - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - ACM Transactions on Intelligent Systems and Technology (TIST)
