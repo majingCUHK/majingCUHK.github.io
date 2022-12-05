@@ -89,7 +89,7 @@ Zhiwei Yang, Hechang Chen, Jiawei Zhang, **Jing Ma** and Yi Chang
 **TIST**: ACM Transactions on Intelligent Systems and Technology, pages 1-28.     
 
 * Review-guided Helpful Answer Identification in E-commerce \[[PDF](https://majingcuhk.github.io/references/WWW-2020.pdf)\]       
-WWenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**    
+Wenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**    
 **WWW 2020**: The Web Conference 2020, April 2020, Taipei.    
 &emsp;
 
