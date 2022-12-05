@@ -17,6 +17,12 @@ show-avatar: false
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
+## 2023
+* Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning         
+Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu    
+**AAAI 2023**: The Thirty-Seventh AAAI Conference on Artificial Intelligence, Feb 2023, Washington DC.
+&emsp;
+
 ## 2022
 * Conditioned Masked Language and Image Modeling for Image-Text Dense Retrieval            
 Ziyang Luo, Yadong Xi, Rongsheng Zhang, Gongzheng Li, Zeng Zhao, **Jing Ma**        
