@@ -7,6 +7,7 @@
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Graduate Students</span></span></p>
 
 - YANG, Ruichao [PhD, Aug, 2020 - ]
+- NIU, Shuai [PhD, Aug, 2020 - ]
 - LUO, Ziyang [PhD, Aug, 2021 - ]
 - LIN, Hongzhan [PhD, Aug, 2022 - ]
 
