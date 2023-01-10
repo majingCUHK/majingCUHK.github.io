@@ -1,3 +1,3 @@
 &nbsp;
-<a href="https://scholar.google.com.sg/citations?user=qrWi1RYAAAAJ&amp;hl=en">
+<a href="https://majingcuhk.github.io/references/COLING-2022.pdf" />
 ### Under construction...
