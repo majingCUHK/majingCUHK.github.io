@@ -1,4 +1,11 @@
 
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Selected Projects</span></span></p>
+
+- RGC ECS (PI): Conversation-based Reasoning for Explainable Fake News Detection via Weakly Supervised Evidence Detection
+- NSFC YSF (PI): 基于社交关系的新闻自动摘要与虚假信息对抗    
+&emsp;  
+
+
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic Services</span></span></p>
 
 - **Session Chair**: COLING 2020
@@ -11,6 +18,7 @@
     - Neurocomputing
 - **External Reviewer**: IJCAI 2020, ACL 2015-2017, EMNLP 2015-2017, SIGIR 2016-2017, CIKM 2016, PACLIC 2016, ASONAM 2016-2019  
 &emsp;    
+
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Recognition, Achievements, and Events</span></span></p>
 
