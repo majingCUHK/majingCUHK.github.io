@@ -16,6 +16,7 @@
 
 - **Top Five Outstanding TIST Articles** for Jing Ma, Wei Gao, Shafiq Joty, and Kam-Fai Wong, An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks, TIST (2020), pages 1-28.  
 - Recognised as one of “**The 2022 Women in AI**” by AMiner.  
+- Recognised as “**The World’s top 2% scientists**” released by Stanford University.
 &emsp; 
 
 
