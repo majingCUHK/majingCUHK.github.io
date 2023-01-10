@@ -1,7 +1,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Present/Upcoming Courses</span></span></p>
 
-- **Term 1, Year 2022 - '23**: Natural Language Processing -- COMP4036(UG)
+- **Term 1, Year 2022 - '23**: Natural Language Processing -- [COMP4036(UG)]([https://www.comp.hkbu.edu.hk/v1/file/course/COMP4136.pdf])
 - **Term 2, Year 2022 - '23**: Visual Analytics & Decision Support -- COMP4125(UG)/7820(PG)
 &emsp; 
 
