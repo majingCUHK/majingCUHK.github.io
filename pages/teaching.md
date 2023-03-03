@@ -1,7 +1,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Present/Upcoming Courses</span></span></p>
 
-- **Term 1, Year 2022 - '23**: [COMP4036(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4136.pdf) -- Natural Language Processing
+- **Term 1, Year 2022 - '23**: [COMP4136(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4136.pdf) -- Natural Language Processing
 - **Term 2, Year 2022 - '23**: [COMP4125(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4125.pdf) -- Visual Analytics  
 - **Term 2, Year 2022 - '23**: [COMP7820(PG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7820.pdf) -- Visual Analytics & Decision Support
 &emsp; 
@@ -10,7 +10,7 @@
 
 - **Term 2, Year 2021 - '22**: [COMP4125(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4125.pdf) -- Visual Analytics 
 - **Term 2, Year 2021 - '22**: [COMP7820(PG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7820.pdf) -- Visual Analytics & Decision Support 
-- **Term 1, Year 2021 - '22**: [COMP4036(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4136.pdf) -- Natural Language Processing 
+- **Term 1, Year 2021 - '22**: [COMP4136(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4136.pdf) -- Natural Language Processing 
 - **Term 1, Year 2021 - '22**: [COMP2865(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP2865.pdf) -- Fundamental of Data Analysis and Management  
 - **Term 2, Year 2020 - '21**: [COMP4125(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4125.pdf) -- Visual Analytics
 - **Term 2, Year 2020 - '21**: [COMP7820(PG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7820.pdf) -- Visual Analytics & Decision Support 
