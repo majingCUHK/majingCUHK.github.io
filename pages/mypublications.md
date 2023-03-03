@@ -21,6 +21,10 @@ show-avatar: false
 * Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning         
 Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu    
 **AAAI 2023**: The Thirty-Seventh AAAI Conference on Artificial Intelligence, Feb 2023, Washington DC.
+
+* I-TUNING: Tuning Frozen Language Models with Image for Lightweight Image Captioning         
+Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**    
+**ICASSP 2023**: 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, Jun 2023, Greece.
 &emsp;
 
 ## 2022
