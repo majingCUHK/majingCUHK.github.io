@@ -28,7 +28,7 @@ Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**
 &emsp;
 
 ## 2022
-* Conditioned Masked Language and Image Modeling for Image-Text Dense Retrieval            
+* Conditioned Masked Language and Image Modeling for Image-Text Dense Retrieval \[[PDF](https://majingcuhk.github.io/references/EMNLP-find-luo-2022.pdf)\]            
 Ziyang Luo, Yadong Xi, Rongsheng Zhang, Gongzheng Li, Zeng Zhao, **Jing Ma**        
 **EMNLP 2022**: The 2022 Conference on Empirical Methods in Natural Language Processing (Findings), Dec 2022, Abu. 
 
