@@ -31,6 +31,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Invited Talks</span></span></p>
 
+- “Social Assisted Rumor Detection and Fake News Detection” at Turing NLP Special Interest Group, London, Mar 23rd, 2023.
 - “Chatbot and NLP” at Hong Kong Baptist University, Hong Kong, Feb 7th, 2023.
 - “Combating Misinformation in the Era of Social Media” at Jilin University, China, Sep 13rd, 2022. 
 - “Combating Misinformation in the Era of Social Media” at Fudan University, China, Jul 1st, 2022.  
