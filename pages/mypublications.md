@@ -18,13 +18,18 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2023
-* Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning         
+* Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning   \[[PDF](https://majingcuhk.github.io/references/AAAI-2023.pdf)\]  \[[DATA](https://drive.google.com/file/d/1BZ-6a8chFCVATEyXH1vMO_CPAMOL0z-p/view)\]      
 Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu    
 **AAAI 2023**: The Thirty-Seventh AAAI Conference on Artificial Intelligence, Feb 2023, Washington DC.
 
 * I-TUNING: Tuning Frozen Language Models with Image for Lightweight Image Captioning         
 Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**    
 **ICASSP 2023**: 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, Jun 2023, Greece.
+
+* LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Sparse Retrieval         
+Ziyang Luo, Pu Zhao, Can Xu, Xiubo Geng, Tao Shen, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang    
+**ICCV 2023**: International Conference on Computer Vision 2023, Oct 2023, Paris.
+    
 &emsp;
 
 ## 2022
