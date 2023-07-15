@@ -28,8 +28,7 @@ Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**
 
 * LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Sparse Retrieval         
 Ziyang Luo, Pu Zhao, Can Xu, Xiubo Geng, Tao Shen, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang    
-**ICCV 2023**: International Conference on Computer Vision 2023, Oct 2023, Paris.
-    
+**ICCV 2023**: International Conference on Computer Vision 2023, Oct 2023, Paris.   
 &emsp;
 
 ## 2022
