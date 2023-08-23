@@ -10,6 +10,7 @@
 - NIU, Shuai [PhD, Aug, 2020 - ]
 - [LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - ]
 - [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) [PhD, Aug, 2022 - ]
+- SUN, Yuxi [PhD, Aug, 2023 - ]
 
 &emsp;
 
