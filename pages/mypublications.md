@@ -22,7 +22,7 @@ show-avatar: false
 Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu    
 **AAAI 2023**: The Thirty-Seventh AAAI Conference on Artificial Intelligence, Feb 2023, Washington DC.
 
-* I-TUNING: Tuning Frozen Language Models with Image for Lightweight Image Captioning         
+* I-TUNING: Tuning Frozen Language Models with Image for Lightweight Image Captioning   \[[PDF](https://majingcuhk.github.io/references/ICASSP2023.pdf)\]          
 Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**    
 **ICASSP 2023**: 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, Jun 2023, Greece.
 
