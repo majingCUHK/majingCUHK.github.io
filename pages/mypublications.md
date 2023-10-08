@@ -20,11 +20,11 @@ show-avatar: false
 ## 2023
 * WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom          
 Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Zhiwei Yang        
-**EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing, Dec 2022, Singapore.
+**EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing, Dec 2023, Singapore.
 
 * Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models         
 Hongzhan Lin, Ziyang Luo, **Jing Ma**, Long Chen        
-**EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing (Findings), Dec 2022, Singapore.
+**EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing (Findings), Dec 2023, Singapore.
 
 * Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning   \[[PDF](https://majingcuhk.github.io/references/AAAI-2023.pdf)\]  \[[DATA](https://drive.google.com/file/d/1BZ-6a8chFCVATEyXH1vMO_CPAMOL0z-p/view)\]      
 Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu    
