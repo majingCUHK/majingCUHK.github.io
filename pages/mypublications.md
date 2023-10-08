@@ -18,6 +18,14 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2023
+* WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom          
+Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Zhiwei Yang        
+**EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing, Dec 2022, Singapore.
+
+* Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models         
+Hongzhan Lin, Ziyang Luo, **Jing Ma**, Long Chen        
+**EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing (Findings), Dec 2022, Singapore.
+
 * Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning   \[[PDF](https://majingcuhk.github.io/references/AAAI-2023.pdf)\]  \[[DATA](https://drive.google.com/file/d/1BZ-6a8chFCVATEyXH1vMO_CPAMOL0z-p/view)\]      
 Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu    
 **AAAI 2023**: The Thirty-Seventh AAAI Conference on Artificial Intelligence, Feb 2023, Washington DC.
@@ -28,7 +36,11 @@ Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**
 
 * LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Sparse Retrieval         
 Ziyang Luo, Pu Zhao, Can Xu, Xiubo Geng, Tao Shen, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang    
-**ICCV 2023**: International Conference on Computer Vision 2023, Oct 2023, Paris.   
+**ICCV 2023**: International Conference on Computer Vision 2023, Oct 2023, Paris.
+
+* EHR-KnowGen: Knowledge-enhanced Multimodal Learning for Disease Diagnosis Generation              
+Shuai Niu, Yang Xian, **Jing Ma**, Liang Bai, Zhihua Wang, Guo Li     
+**Information Fusion**  
 &emsp;
 
 ## 2022
