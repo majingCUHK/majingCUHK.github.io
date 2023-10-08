@@ -34,7 +34,7 @@ Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ru
 Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**    
 **ICASSP 2023**: 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, Jun 2023, Greece.
 
-* LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Sparse Retrieval         
+* LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Sparse Retrieval   \[[PDF](https://majingcuhk.github.io/references/ICCV-2023.pdf)\]         
 Ziyang Luo, Pu Zhao, Can Xu, Xiubo Geng, Tao Shen, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang    
 **ICCV 2023**: International Conference on Computer Vision 2023, Oct 2023, Paris.
 
