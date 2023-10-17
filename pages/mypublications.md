@@ -38,8 +38,8 @@ Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**
 Ziyang Luo, Pu Zhao, Can Xu, Xiubo Geng, Tao Shen, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang    
 **ICCV 2023**: International Conference on Computer Vision 2023, Oct 2023, Paris.
 
-* EHR-KnowGen: Knowledge-enhanced Multimodal Learning for Disease Diagnosis Generation              
-Shuai Niu, Yang Xian, **Jing Ma**, Liang Bai, Zhihua Wang, Guo Li     
+* EHR-KnowGen: Knowledge-enhanced Multimodal Learning for Disease Diagnosis Generation    \[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523003858)\]           
+Shuai Niu, **Jing Ma**, Liang Bai, Zhihua Wang, Guo Li, Xian Yang
 **Information Fusion**  
 &emsp;
 
