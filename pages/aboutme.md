@@ -33,7 +33,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Invited Talks</span></span></p>
 
-- “Social Context Assisted Fact-checking via Weakly Supervised Learning” at [AI NEW HORIZONS 2023](https://ai-newhorizons2023.com/), Hong Kong, Nov 18th, 2023.
+- “Social Context Assisted Fact-checking via Weakly Supervised Learning” at [AI NEW HORIZONS 2023: A Symposium with Scientific Leaders](https://ai-newhorizons2023.com/), Hong Kong, Nov 18th, 2023.
 - “Social Context Assisted Fake News Detection and Stance Detection” at Beijing University of Posts and Telecommunications, China, Apr 11st, 2023.
 - “Social Context Assisted Fake News Detection and Stance Detection” at Jilin University, China, Apr 6th, 2023.
 - “Social Assisted Rumor Detection and Fake News Detection” at Turing NLP Special Interest Group, London, Mar 23rd, 2023.
