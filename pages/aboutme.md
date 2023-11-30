@@ -33,6 +33,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Invited Talks</span></span></p>
 
+- “Large Language Model: Background, Techniques and our development” at [How Well Can AI Assist Us in Coding and Grading Tasks?](https://www.aiforeducation.net/event-details/how-well-can-ai-assist-us-in-coding-and-grading-tasks), Hong Kong, Nov 30th, 2023.
 - “Social Context Assisted Fact-checking via Weakly Supervised Learning” at [AI NEW HORIZONS 2023: A Symposium with Scientific Leaders](https://ai-newhorizons2023.com/), Hong Kong, Nov 18th, 2023.
 - “Social Context Assisted Fake News Detection and Stance Detection” at Beijing University of Posts and Telecommunications, China, Apr 11st, 2023.
 - “Social Context Assisted Fake News Detection and Stance Detection” at Jilin University, China, Apr 6th, 2023.
