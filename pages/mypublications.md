@@ -18,11 +18,11 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2023
-* WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom   \[[CODE](https://github.com/HKBUNLP/WSDMS-EMNLP2023)\]       
+* WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom   \[[PDF](https://majingcuhk.github.io/references/EMNLP-2023-Yang.pdf)\]  \[[CODE](https://github.com/HKBUNLP/WSDMS-EMNLP2023)\]       
 Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Zhiwei Yang        
 **EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing, Dec 2023, Singapore.
 
-* Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models         
+* Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models     \[[PDF](https://majingcuhk.github.io/references/EMNLP-2023-finding.pdf)\]         
 Hongzhan Lin, Ziyang Luo, **Jing Ma**, Long Chen        
 **EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing (Findings), Dec 2023, Singapore.
 
