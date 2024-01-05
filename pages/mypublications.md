@@ -17,6 +17,12 @@ show-avatar: false
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
+## 2024
+* Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework           
+Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**        
+**ICASSP 2024**: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, Apr 2024, Seoul, Korea.
+&emsp;
+
 ## 2023
 * WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom   \[[PDF](https://majingcuhk.github.io/references/EMNLP-2023-Yang.pdf)\]  \[[CODE](https://github.com/HKBUNLP/WSDMS-EMNLP2023)\]       
 Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Zhiwei Yang        
