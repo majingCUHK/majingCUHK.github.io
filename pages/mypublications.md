@@ -28,11 +28,11 @@ Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**
 Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Zhiwei Yang        
 **EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing, Dec 2023, Singapore.
 
-* Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models     \[[PDF](https://majingcuhk.github.io/references/EMNLP-2023-finding.pdf)\]         
+* Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models     \[[PDF](https://majingcuhk.github.io/references/EMNLP-2023-finding.pdf)\]  \[[CODE](https://github.com/HKBUNLP/Mr.Harm-EMNLP2023)\]           
 Hongzhan Lin, Ziyang Luo, **Jing Ma**, Long Chen        
 **EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing (Findings), Dec 2023, Singapore.
 
-* Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning   \[[PDF](https://majingcuhk.github.io/references/AAAI-2023.pdf)\]  \[[DATA](https://drive.google.com/file/d/1BZ-6a8chFCVATEyXH1vMO_CPAMOL0z-p/view)\]      
+* Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning   \[[PDF](https://majingcuhk.github.io/references/AAAI-2023.pdf)\]  \[[DATA](https://drive.google.com/file/d/1BZ-6a8chFCVATEyXH1vMO_CPAMOL0z-p/view)\]  \[[CODE](https://github.com/HKBUNLP/zeroRumor-AAAI23)\]       
 Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu    
 **AAAI 2023**: The Thirty-Seventh AAAI Conference on Artificial Intelligence, Feb 2023, Washington DC.
 
@@ -40,7 +40,7 @@ Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ru
 Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**    
 **ICASSP 2023**: 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, Jun 2023, Greece.
 
-* LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Sparse Retrieval   \[[PDF](https://majingcuhk.github.io/references/ICCV-2023.pdf)\]         
+* LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Sparse Retrieval   \[[PDF](https://majingcuhk.github.io/references/ICCV-2023.pdf)\]  \[[CODE](https://github.com/HKBUNLP/LexLIP-ICCV23)\]          
 Ziyang Luo, Pu Zhao, Can Xu, Xiubo Geng, Tao Shen, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang    
 **ICCV 2023**: International Conference on Computer Vision 2023, Oct 2023, Paris.
 
