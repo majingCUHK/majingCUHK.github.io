@@ -10,7 +10,7 @@
 
 - **Conference Area Chair (AC)**: AACL 2023, NAACL 2024
 - **Conference Session co-Chair**: COLING 2020
-- **Conference Program Committee Member (PC)**: WSDM 2023-2024, EACL 2023, AACL 2022, WWW 2021 2023-2024, CIKM 2020, AAAI 2019-2022, ACL 2019, EMNLP 2018-2019, AI 2019
+- **Conference Program Committee Member (PC)**: WSDM 2023-2024, EACL 2023, AACL 2022, WWW 2021 2023-2024, PAKDD 2024, CIKM 2020, AAAI 2019-2022, ACL 2019, EMNLP 2018-2019, AI 2019
 - **Journal Reviewer**:
     - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - ACM Transactions on Intelligent Systems and Technology (TIST)
