@@ -18,7 +18,7 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2024
-*  WizardCoder: Empowering Code Large Language Models with Evol-Instruct
+*  WizardCoder: Empowering Code Large Language Models with Evol-Instruct                      
 Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang
 **ICLR 2024**: The Twelfth International Conference on Learning Representations, May 2024, Vienna, Austria.
 
