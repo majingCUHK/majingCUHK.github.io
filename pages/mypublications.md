@@ -18,7 +18,11 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2024
-* Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework           
+*  WizardCoder: Empowering Code Large Language Models with Evol-Instruct
+Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang
+**ICLR 2024**: The Twelfth International Conference on Learning Representations, May 2024, Vienna, Austria.
+
+*  Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework           
 Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**        
 **ICASSP 2024**: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, Apr 2024, Seoul, Korea.
 &emsp;
