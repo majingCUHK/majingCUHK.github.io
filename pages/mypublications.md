@@ -24,7 +24,11 @@ Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Ta
 
 *  Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework           
 Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**        
-**ICASSP 2024**: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, Apr 2024, Seoul, Korea.
+**ICASSP 2024**: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, Apr 2024, Seoul, Korea.           
+
+*  CoTea: Collaborative Teaching for Low-resource Named Entity Recognition with A Divide-and-conquer Strategy           
+Zhiwei Yang, **Jing Ma**, Kang Yang, Hechang Chen, Huiru Lin, Ruichao Yang and Yi Chang           
+**Information Sciences**.        
 &emsp;
 
 ## 2023
@@ -50,7 +54,7 @@ Ziyang Luo, Pu Zhao, Can Xu, Xiubo Geng, Tao Shen, Chongyang Tao, **Jing Ma**, Q
 
 * EHR-KnowGen: Knowledge-enhanced Multimodal Learning for Disease Diagnosis Generation    \[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253523003858)\]           
 Shuai Niu, **Jing Ma**, Liang Bai, Zhihua Wang, Guo Li, Xian Yang   
-**Information Fusion**  
+**Information Fusion**.  
 &emsp;
 
 ## 2022
