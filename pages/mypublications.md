@@ -18,6 +18,14 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2024
+* Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models       
+Hongzhan Lin, Ziyang Luo, Wei Gao, **Jing Ma**, Bo Wang, Ruichao Yang     
+**WWW 2024**: The Web Conference 2024, May 2024, , Singapore. 
+
+* Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom       
+Bo Wang, **Jing Ma**, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang     
+**WWW 2024**: The Web Conference 2024, May 2024, , Singapore.
+  
 *  WizardCoder: Empowering Code Large Language Models with Evol-Instruct                      
 Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang        
 **ICLR 2024**: The Twelfth International Conference on Learning Representations, May 2024, Vienna, Austria.
