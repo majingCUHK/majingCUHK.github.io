@@ -36,7 +36,11 @@ Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**
 
 *  CoTea: Collaborative Teaching for Low-resource Named Entity Recognition with A Divide-and-conquer Strategy  \[[PDF](https://majingcuhk.github.io/references/ELSEV-CoTea.pdf)\]              
 Zhiwei Yang, **Jing Ma**, Kang Yang, Huiru Lin, Hechang Chen, Ruichao Yang and Yi Chang           
-**Information Processing and Management**.        
+**Information Processing and Management**.
+
+*  A deep clustering-based state-spacemodel for improved disease risk prediction in personalized healthcare  \[[PDF](https://link.springer.com/article/10.1007/s10479-023-05817-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240201&utm_content=10.1007/s10479-023-05817-1)\]              
+Shuai Niu, **Jing Ma**, Qing Yin, Liang Bai, Chen Li and Xian Yang           
+**Annals of Operations Research**.      
 &emsp;
 
 ## 2023
