@@ -34,6 +34,11 @@ Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Ta
 Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**        
 **ICASSP 2024**: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, Apr 2024, Seoul, Korea.           
 
+*  Towards low-resource rumor detection: Unified contrastive transfer with propagation structure                 
+Hongzhan Lin, **Jing Ma**, Ruichao Yang, Zhiwei Yang, Mingfei Cheng                
+**Neurocomputing**.
+
+   
 *  CoTea: Collaborative Teaching for Low-resource Named Entity Recognition with A Divide-and-conquer Strategy  \[[PDF](https://majingcuhk.github.io/references/ELSEV-CoTea.pdf)\]              
 Zhiwei Yang, **Jing Ma**, Kang Yang, Huiru Lin, Hechang Chen, Ruichao Yang and Yi Chang           
 **Information Processing and Management**.
