@@ -26,11 +26,11 @@ Zixin Chen, Hongzhan Lin, Ziyang Luo, Mingfei Cheng, **Jing Ma**, Guang Chen
 Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Bo Wang        
 **ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics (Findings), Aug 2024, Bangkok, Thailand. 
 
-* Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models       
+* Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models  \[[PDF](https://majingcuhk.github.io/references/WWW-2024-Lin.pdf)\]       
 Hongzhan Lin, Ziyang Luo, Wei Gao, **Jing Ma**, Bo Wang, Ruichao Yang     
 **WWW 2024**: The Web Conference 2024, May 2024, Singapore. 
 
-* Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom       
+* Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom  \[[PDF](https://majingcuhk.github.io/references/WWW-2024-wang.pdf)\]       
 Bo Wang, **Jing Ma**, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang     
 **WWW 2024**: The Web Conference 2024, May 2024, Singapore.
   
