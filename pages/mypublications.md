@@ -18,6 +18,14 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2024
+* CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models       
+Zixin Chen, Hongzhan Lin, Ziyang Luo, Mingfei Cheng, **Jing Ma**, Guang Chen        
+**ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics, Aug 2024, Bangkok, Thailand.
+
+* Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models       
+Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Bo Wang        
+**ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics (Findings), Aug 2024, Bangkok, Thailand. 
+
 * Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models       
 Hongzhan Lin, Ziyang Luo, Wei Gao, **Jing Ma**, Bo Wang, Ruichao Yang     
 **WWW 2024**: The Web Conference 2024, May 2024, Singapore. 
