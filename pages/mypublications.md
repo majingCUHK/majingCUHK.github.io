@@ -35,7 +35,7 @@ Bo Wang, **Jing Ma**, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Cha
 **WWW 2024**: The Web Conference 2024, May 2024, Singapore.
   
 *  WizardCoder: Empowering Code Large Language Models with Evol-Instruct                      
-Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang        
+Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, **Jing Ma***, Qingwei Lin, Daxin Jiang  \[[PDF](https://majingcuhk.github.io/references/ICLR-2024.pdf)\]        
 **ICLR 2024**: The Twelfth International Conference on Learning Representations, May 2024, Vienna, Austria.
 
 *  Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework           
