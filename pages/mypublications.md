@@ -34,19 +34,18 @@ Hongzhan Lin, Ziyang Luo, Wei Gao, **Jing Ma**, Bo Wang, Ruichao Yang
 Bo Wang, **Jing Ma**, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang     
 **WWW 2024**: The Web Conference 2024, May 2024, Singapore.
   
-*  WizardCoder: Empowering Code Large Language Models with Evol-Instruct                      
-Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, **Jing Ma***, Qingwei Lin, Daxin Jiang  \[[PDF](https://majingcuhk.github.io/references/ICLR-2024.pdf)\]        
+*  WizardCoder: Empowering Code Large Language Models with Evol-Instruct  \[[PDF](https://majingcuhk.github.io/references/ICLR-2024.pdf)\]                          
+Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, **Jing Ma***, Qingwei Lin, Daxin Jiang        
 **ICLR 2024**: The Twelfth International Conference on Learning Representations, May 2024, Vienna, Austria.
 
-*  Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework           
+*  Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework  \[[PDF](https://majingcuhk.github.io/references/ICASSP-2024.pdf)\]           
 Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**        
 **ICASSP 2024**: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, Apr 2024, Seoul, Korea.           
 
-*  Towards low-resource rumor detection: Unified contrastive transfer with propagation structure                 
+*  Towards low-resource rumor detection: Unified contrastive transfer with propagation structure  \[[PDF](https://majingcuhk.github.io/references/nerucomp.pdf)\]                   
 Hongzhan Lin, **Jing Ma**, Ruichao Yang, Zhiwei Yang, Mingfei Cheng                
 **Neurocomputing**.
 
-   
 *  CoTea: Collaborative Teaching for Low-resource Named Entity Recognition with A Divide-and-conquer Strategy  \[[PDF](https://majingcuhk.github.io/references/ELSEV-CoTea.pdf)\]              
 Zhiwei Yang, **Jing Ma**, Kang Yang, Huiru Lin, Hechang Chen, Ruichao Yang and Yi Chang           
 **Information Processing and Management**.
