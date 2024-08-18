@@ -18,11 +18,11 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2024
-* CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models       
+* CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-Chen.pdf)\]       
 Zixin Chen, Hongzhan Lin, Ziyang Luo, Mingfei Cheng, **Jing Ma**, Guang Chen        
 **ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics, Aug 2024, Bangkok, Thailand.
 
-* Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models       
+* Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-finding.pdf)\]       
 Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Bo Wang        
 **ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics (Findings), Aug 2024, Bangkok, Thailand. 
 
