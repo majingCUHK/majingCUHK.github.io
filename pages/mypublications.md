@@ -18,7 +18,7 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2024
-* CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-Chen.pdf)\]       
+* CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-Chen.pdf)\]  \[[CODE](https://github.com/Lbotirx/CofiPara)\]       
 Zixin Chen, Hongzhan Lin, Ziyang Luo, Mingfei Cheng, **Jing Ma**, Guang Chen        
 **ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics, Aug 2024, Bangkok, Thailand.
 
