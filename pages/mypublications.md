@@ -30,7 +30,7 @@ Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Bo Wang
 Hongzhan Lin, Ziyang Luo, Wei Gao, **Jing Ma**, Bo Wang, Ruichao Yang     
 **WWW 2024**: The Web Conference 2024, May 2024, Singapore. 
 
-* Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom  \[[PDF](https://majingcuhk.github.io/references/WWW-2024-wang.pdf)\]       
+* Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom  \[[PDF](https://majingcuhk.github.io/references/WWW-2024-wang.pdf)\]  \[[CODE](https://github.com/wangbo9719/L-Defense_EFND)\]       
 Bo Wang, **Jing Ma**, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang     
 **WWW 2024**: The Web Conference 2024, May 2024, Singapore.
   
