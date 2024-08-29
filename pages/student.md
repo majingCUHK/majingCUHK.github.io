@@ -6,11 +6,13 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Graduate Students</span></span></p>
 
-- [YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - ]
+- [YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 -  ]
 - NIU, Shuai [PhD, Aug, 2020 - ]
 - [LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - ]
 - [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) [PhD, Aug, 2022 - ]
 - SUN, Yuxi [PhD, Aug, 2023 - ]
+- KONG, Chuyi [PhD, Aug, 2024 - ]
+- FU, Rao [PhD, Aug, 2024 - ]
 
 &emsp;
 
