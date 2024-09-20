@@ -18,6 +18,18 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2024
+* AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation          
+Ziyang Luo, Xin Li, Hongzhan Lin, **Jing Ma**, Lidong Bing         
+**EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida.
+
+* Towards Low-Resource Harmful Meme Detection with LMM Agents          
+Jianzhao Huang, Hongzhan Lin, ZiyanLiu, Ziyang Luo, Guang Chen, **Jing Ma**         
+**EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida.
+
+* MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems          
+Kaixin Li, Yuchen Tian, Qisheng Hu, Ziyang Luo, **Jing Ma**         
+**EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2024, Miami, Florida.  
+  
 * CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-Chen.pdf)\]  \[[CODE](https://github.com/Lbotirx/CofiPara)\]       
 Zixin Chen, Hongzhan Lin, Ziyang Luo, Mingfei Cheng, **Jing Ma**, Guang Chen        
 **ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics, Aug 2024, Bangkok, Thailand.
