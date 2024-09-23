@@ -27,7 +27,7 @@ Jianzhao Huang, Hongzhan Lin, ZiyanLiu, Ziyang Luo, Guang Chen, **Jing Ma**
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida.
 
 * MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems          
-Kaixin Li, Yuchen Tian, Qisheng Hu, Ziyang Luo, **Jing Ma**         
+Kaixin Li, Yuchen Tian, Qisheng Hu, Ziyang Luo, Zhiyong Huang, **Jing Ma**         
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2024, Miami, Florida.  
   
 * CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-Chen.pdf)\]  \[[CODE](https://github.com/Lbotirx/CofiPara)\]       
