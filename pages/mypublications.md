@@ -34,7 +34,7 @@ Kaixin Li, Yuchen Tian, Qisheng Hu, Ziyang Luo, Zhiyong Huang, **Jing Ma**
 Zixin Chen, Hongzhan Lin, Ziyang Luo, Mingfei Cheng, **Jing Ma**, Guang Chen        
 **ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics, Aug 2024, Bangkok, Thailand.
 
-* Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-finding.pdf)\]       
+* Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-finding.pdf)\]  \[[CODE](https://github.com/HKBUNLP/JSDRV)\]         
 Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Bo Wang        
 **ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics (Findings), Aug 2024, Bangkok, Thailand. 
 
