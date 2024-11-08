@@ -3,6 +3,7 @@
 
 - **Term 1, Year 2024 - '25**: [COMP4136(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4136.pdf) -- Natural Language Processing
 - **Term 1, Year 2024 - '25**: [COMP2865(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP2865.pdf) -- Fundamental of Data Analysis and Management
+- **Term 1, Year 2024 - '25**: [ITS7010(PG)](https://gs.hkbu.edu.hk/f/page/3358/ITS7010_ITS7020_Course%20Document.pdf) -- ITS Doctoral Research Training I
 - **Term 2, Year 2024 - '25**: [COMP4125(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4125.pdf) -- Visual Analytics  
 - **Term 2, Year 2024 - '25**: [COMP7820(PG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7820.pdf) -- Visual Analytics & Decision Support
 &emsp; 
