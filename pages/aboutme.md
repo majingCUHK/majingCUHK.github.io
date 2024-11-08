@@ -9,9 +9,11 @@
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic Services</span></span></p>
 
 - **Conference Area Chair (AC)**: AACL 2023, NAACL 2024, ACL 2024, EMNLP 2024, NLPCC 2024
+- **Workshop Organizer**: [Preventing and Detecting LLM Generated Misinformation@AAAI-25](https://aaai2025-llm-misinformation.github.io/)
 - **Conference Session co-Chair**: COLING 2020
 - **Conference Program Committee Member (PC)**: WSDM 2023-2024, EACL 2023, AACL 2022, WWW 2021 2023-2024, PAKDD 2024, CIKM 2020, AAAI 2019-2022, ACL 2019, EMNLP 2018-2019, AI 2019
 - **Journal Reviewer**:
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - ACM Transactions on Intelligent Systems and Technology (TIST)
     - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
