@@ -23,7 +23,7 @@
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Visiting Students and Research Assistants</span></p>
 
-- Wang, Bo  [PhD, Jilin University, Mar, 2023 - Sep, 2023 ]
+- [Wang, Bo](https://scholar.google.com.hk/citations?user=AwFj_u8AAAAJ&hl=en) [PhD, Jilin University, Mar, 2023 - Mar, 2024 ]
 - [YANG, Zhiwei](https://scholar.google.com/citations?user=SmOi-WYAAAAJ&hl=zh-CN) [PhD, Jilin University, Mar, 2021 - Dec, 2022 ]
 - LIN, Hongzhan [Msc, Beijing University of Posts and Telecommunications, Jun, 2021 - Nov, 2021 ]
 - PENG, Likai [Msc, Nanyang Techonogical University, Oct, 2021 - Oct, 2022 ]
