@@ -18,15 +18,15 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2024
-* AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation          
+* AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation  \[[PDF](https://majingcuhk.github.io/references/EMNLP-2024-Luo.pdf)\]          
 Ziyang Luo, Xin Li, Hongzhan Lin, **Jing Ma**, Lidong Bing         
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida.
 
-* Towards Low-Resource Harmful Meme Detection with LMM Agents          
+* Towards Low-Resource Harmful Meme Detection with LMM Agents  \[[PDF](https://majingcuhk.github.io/references/EMNLP-2024-Lin.pdf)\]          
 Jianzhao Huang, Hongzhan Lin, ZiyanLiu, Ziyang Luo, Guang Chen, **Jing Ma**         
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida.
 
-* MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems          
+* MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems  \[[PDF](https://majingcuhk.github.io/references/EMNLP-2024-find.pdf)\]          
 Kaixin Li, Yuchen Tian, Qisheng Hu, Ziyang Luo, Zhiyong Huang, **Jing Ma**         
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2024, Miami, Florida.  
   
