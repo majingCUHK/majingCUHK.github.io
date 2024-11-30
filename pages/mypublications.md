@@ -17,6 +17,12 @@ show-avatar: false
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
+## 2025
+* CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?   
+Yuwei Zhao, Ziyang Luo, Yuchen Tian, Hongzhan Lin, Weixiang Yan, Annan Li, **Jing Ma**        
+**COLING 2025**: The 31th International Conference on Computational Linguistics, Jan 2025, Abu Dhabi, UAE.
+&emsp;
+
 ## 2024
 * AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation  \[[PDF](https://majingcuhk.github.io/references/EMNLP-2024-Luo.pdf)\]          
 Ziyang Luo, Xin Li, Hongzhan Lin, **Jing Ma**, Lidong Bing         
