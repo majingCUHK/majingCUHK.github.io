@@ -18,6 +18,10 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2025
+* Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers          
+Ruo F Wang, Hongzhan Lin, Ziyuan Luo, Ka Chun Cheung, Simon See, **Jing Ma**, Renjie Wan    
+**AAAI 2025**: The 39th AAAI Conference on Artificial Intelligence, Feb 2025, Philadelphia, Pennsylvania, USA.
+  
 * CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?   
 Yuwei Zhao, Ziyang Luo, Yuchen Tian, Hongzhan Lin, Weixiang Yan, Annan Li, **Jing Ma**        
 **COLING 2025**: The 31th International Conference on Computational Linguistics, Jan 2025, Abu Dhabi, UAE.
