@@ -26,7 +26,7 @@
 - **Term 1, Year 2020 - '21**: [COMP4085(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4085.pdf) -- Selected Topic in Intelligent Informatics  
 &emsp; 
 
-<p><span style="font-family:georgia,serif; font-size:26px;">Teaching Assitant</span></p>
+<p><span style="font-family:georgia,serif; font-size:26px;">Teaching Assistant</span></p>
 
 - **SEEM3450**: Engineering Innovation & Entrepreneurship, The Chinese University of Hong Kong [2016-S1, 2017-S1, 2018-S1]
 - **SEEM3550**: Fundamentals in Information Systems, The Chinese University of Hong Kong [2017-S2]
