@@ -36,7 +36,7 @@ Ziyang Luo, Xin Li, Hongzhan Lin, **Jing Ma**, Lidong Bing
 Jianzhao Huang, Hongzhan Lin, ZiyanLiu, Ziyang Luo, Guang Chen, **Jing Ma**         
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida.
 
-* MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems  \[[PDF](https://majingcuhk.github.io/references/EMNLP-2024-find.pdf)\]          
+* MMCode: Benchmarking Multimodal Large Language Models in Code Generation with Visually Rich Programming Problems  \[[PDF](https://majingcuhk.github.io/references/EMNLP-2024-find.pdf)\]          
 Kaixin Li, Yuchen Tian, Qisheng Hu, Ziyang Luo, Zhiyong Huang, **Jing Ma**         
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2024, Miami, Florida.  
   
