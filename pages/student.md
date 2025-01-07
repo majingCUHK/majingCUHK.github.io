@@ -13,6 +13,7 @@
 - SUN, Yuxi [PhD, Aug, 2023 - ]
 - KONG, Chuyi [PhD, Aug, 2024 - ]
 - FU, Rao [PhD, Aug, 2024 - ]
+- [TIAN, Yuchen](https://scholar.google.com/citations?user=yfcxbMcAAAAJ&hl=zh-CN) [PhD, Jan, 2025 - ]
 
 &emsp;
 
