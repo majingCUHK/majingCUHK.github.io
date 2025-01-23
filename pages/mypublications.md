@@ -18,6 +18,10 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2025
+* ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges         
+Rao Fu, Ziyang Luo, Hongzhan Lin, Zhen Ye, **Jing Ma**    
+**NAACL 2025**: 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics, April, New Mexico.
+
 * Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers          
 Ruo F Wang, Hongzhan Lin, Ziyuan Luo, Ka Chun Cheung, Simon See, **Jing Ma**, Renjie Wan    
 **AAAI 2025**: The 39th AAAI Conference on Artificial Intelligence, Feb 2025, Philadelphia, Pennsylvania, USA.
