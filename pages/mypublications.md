@@ -18,7 +18,7 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2025
-* LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information        
+* LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information  \[[PDF](https://dl.acm.org/doi/10.1145/3716856)\]        
 Ruichao Yang, **Jing Ma***, Wei Gao, Hongzhan Lin    
 **TIST**: ACM Transactions on Intelligent Systems and Technology. 
 
