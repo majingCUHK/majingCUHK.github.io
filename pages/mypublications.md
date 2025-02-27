@@ -18,6 +18,10 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2025
+* VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation            
+Ziyang Luo,  Haoning Wu, Dongxu Li, **Jing Ma**, Mohan Kankanhalli, Junnan Li         
+**CVPR 2025**: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, Jun 2025, Nashville TN.
+
 * LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information  \[[PDF](https://dl.acm.org/doi/10.1145/3716856)\]        
 Ruichao Yang, **Jing Ma***, Wei Gao, Hongzhan Lin    
 **TIST**: ACM Transactions on Intelligent Systems and Technology. 
