@@ -37,6 +37,10 @@ Ruo F Wang, Hongzhan Lin, Ziyuan Luo, Ka Chun Cheung, Simon See, **Jing Ma**, Re
 * CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?  \[[PDF](https://majingcuhk.github.io/references/COLING2025.pdf)\]  
 Yuwei Zhao, Ziyang Luo, Yuchen Tian, Hongzhan Lin, Weixiang Yan, Annan Li, **Jing Ma**        
 **COLING 2025**: The 31th International Conference on Computational Linguistics, Jan 2025, Abu Dhabi, UAE.
+
+* Scientific poster generation: A new dataset and approach  \[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320325001670)\]            
+Xinyi Zhong, Zusheng Tan, Jing Li, Shen Gao, **Jing Ma**, Shanshan Feng, Billy Chiu    
+**Pattern Recognition.**
 &emsp;
 
 ## 2024
