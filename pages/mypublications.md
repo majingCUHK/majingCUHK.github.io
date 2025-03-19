@@ -24,7 +24,11 @@ Ziyang Luo,  Haoning Wu, Dongxu Li, **Jing Ma**, Mohan Kankanhalli, Junnan Li
 
 * LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information  \[[PDF](https://dl.acm.org/doi/10.1145/3716856)\]        
 Ruichao Yang, **Jing Ma***, Wei Gao, Hongzhan Lin    
-**TIST**: ACM Transactions on Intelligent Systems and Technology. 
+**TIST**: ACM Transactions on Intelligent Systems and Technology.
+
+* GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse          
+Hongzhan Lin, Ziyang Luo, Bo Wang, Ruichao Yang, **Jing Ma***    
+**TIST**: ACM Transactions on Intelligent Systems and Technology.
 
 * ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges         
 Rao Fu, Ziyang Luo, Hongzhan Lin, Zhen Ye, **Jing Ma**    
