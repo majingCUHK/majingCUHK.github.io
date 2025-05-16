@@ -39,7 +39,7 @@ Chuyi Kong, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, **Jing M
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
 * ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series            
-Shuai Niu, **Jing Ma**, Hongzhan Lin, Liang Bai, Zhihua Wang, V. W., Richard Yi Da Xu, Guo Li, Xian Yang          
+Shuai Niu, **Jing Ma**, Hongzhan Lin, Liang Bai, Zhihua Wang, Wei Bi, Richard Yi Da Xu, Guo Li, Xian Yang          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
 * CausalAbstain: Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention            
