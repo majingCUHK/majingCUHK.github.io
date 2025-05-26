@@ -34,7 +34,7 @@ Zixin Chen, Hongzhan Lin, Kaixin Li, Ziyang Luo, Zhen Ye, Guang Chen, Zhiyong Hu
 Shuai Niu, **Jing Ma**, Hongzhan Lin, Liang Bai, Zhihua Wang, Richard Yi Da Xu, Yunya Song, Xian Yang          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
   
-* SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs            
+* SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs         
 Chuyi Kong, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, **Jing Ma***          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
