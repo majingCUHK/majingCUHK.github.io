@@ -5,7 +5,7 @@
   
 &emsp;
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"></b>Graduate Students</b></span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Graduate Students</b></span></span></p>
 
 - [YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Oct, 2024]
 - NIU, Shuai [PhD, Aug, 2020 - ]
@@ -24,7 +24,7 @@
   
 &emsp;
 
-<p><span style="font-family: georgia, serif; font-size: 26px;"></b>Visiting Students and Research Assistants</b></span></p>
+<p><span style="font-family: georgia, serif; font-size: 26px;"><b>Visiting Students and Research Assistants</b></span></p>
 
 - Zeng, Gailun [PhD, Beijing Normal University-Hong Kong Baptist University, Mar, 2025 - Mar, 2026 ]
 - [Wang, Bo](https://scholar.google.com.hk/citations?user=AwFj_u8AAAAJ&hl=en) [PhD, Jilin University, Mar, 2023 - Mar, 2024 ]
