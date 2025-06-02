@@ -1,5 +1,5 @@
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"></b>Postdocs at HKBU</b></span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><strong>Postdocs at HKBU</strong></span></span></p>
 
 - None at present
   
