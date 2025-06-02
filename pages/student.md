@@ -1,10 +1,11 @@
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Postdocs at HKBU</span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"></b>Postdocs at HKBU</b></span></span></p>
 
 - None at present
+  
 &emsp;
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Graduate Students</span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"></b>Graduate Students</b></span></span></p>
 
 - [YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Oct, 2024]
 - NIU, Shuai [PhD, Aug, 2020 - ]
@@ -17,13 +18,13 @@
 
 &emsp;
 
-<p><span style="font-family:georgia,serif; font-size:26px;">Undergraduate Students</span></p>
+<p><span style="font-family:georgia,serif; font-size:26px;"><b>Undergraduate Students</b></span></p>
 
 - Man Tik SO [Hong Kong Baptist University] Work as a Junior Research Assistant During Jun, 2025 - Aug, 2025
   
 &emsp;
 
-<p><span style="font-family: georgia, serif; font-size: 26px;">Visiting Students and Research Assistants</span></p>
+<p><span style="font-family: georgia, serif; font-size: 26px;"></b>Visiting Students and Research Assistants</b></span></p>
 
 - Zeng, Gailun [PhD, Beijing Normal University-Hong Kong Baptist University, Mar, 2025 - Mar, 2026 ]
 - [Wang, Bo](https://scholar.google.com.hk/citations?user=AwFj_u8AAAAJ&hl=en) [PhD, Jilin University, Mar, 2023 - Mar, 2024 ]
