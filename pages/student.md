@@ -20,7 +20,7 @@
 <p><span style="font-family:georgia,serif; font-size:26px;">Undergraduate Students</span></p>
 
 - Man Tik SO [Hong Kong Baptist University] Work as a Junior Research Assistant During Jun, 2025 - Aug, 2025
-- 
+  
 &emsp;
 
 <p><span style="font-family: georgia, serif; font-size: 26px;">Visiting Students and Research Assistants</span></p>
