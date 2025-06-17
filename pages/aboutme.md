@@ -1,14 +1,15 @@
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Selected Projects</span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Selected Projects</b></span></span></p>
 
 - RGC ECS (PI): Conversation-based Reasoning for Explainable Fake News Detection via Weakly Supervised Evidence Detection
 - NSFC YSF (PI): 基于社交关系的新闻自动摘要与虚假信息对抗
 - Tencent Rhino-Bird Focused Research Program (PI): Value-aligned Credible Large Language Model
 - Huawei gift fund (PI): Code Generation Techniques in Compound AI Systems and Applications
 &emsp;  
+&emsp;
 
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic Services</span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Academic Services</b></span></span></p>
 
 - **Conference Senior Area Chair (SAC)**: AACL 2025
 - **Conference Area Chair (AC)**: AACL 2023, NAACL 2024, ACL 2024, EMNLP 2024, NLPCC 2024
@@ -25,18 +26,18 @@
     - Neurocomputing
 - **External Reviewer**: IJCAI 2020, ACL 2015-2017, EMNLP 2015-2017, SIGIR 2016-2017, CIKM 2016, PACLIC 2016, ASONAM 2016-2019  
 &emsp;    
+&emsp;  
 
-
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Recognition, Achievements, and Events</span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Recognition, Achievements, and Events</b></span></span></p>
 
 - **Top Five Outstanding TIST Articles** for Jing Ma, Wei Gao, Shafiq Joty, and Kam-Fai Wong, An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks, TIST (2020), pages 1-28.  
 - Recognised as one of “**[The 2022 Women in AI](https://www.comp.hkbu.edu.hk/v1/?page=fac_ach&id=162)**” by AMiner (2022).  
 - Recognised as “**The World’s top 2% scientists**” released by Stanford University (2022).
 - Selected into “**[2023 AI Chinese Female Young Scholars list (2023 AI 华人女性青年学者榜)](https://xueshu.baidu.com/usercenter/index/aischolar2023)**” (2023).
 &emsp; 
+&emsp; 
 
-
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Invited Talks</span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Invited Talks</b></span></span></p>
 
 - “Large Language Model for Social Safety”, Keynote Speaker at [SSNLP 2024](https://wing-nus.github.io/SSNLP-2024/), Singapore, Nov 6th, 2024.
 - “Large Language Model: Background, Techniques and our development”, at [How Well Can AI Assist Us in Coding and Grading Tasks?](https://www.aiforeducation.net/event-details/how-well-can-ai-assist-us-in-coding-and-grading-tasks), Hong Kong, Nov 30th, 2023.
