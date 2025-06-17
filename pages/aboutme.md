@@ -2,12 +2,15 @@
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Selected Projects</span></span></p>
 
 - RGC ECS (PI): Conversation-based Reasoning for Explainable Fake News Detection via Weakly Supervised Evidence Detection
-- NSFC YSF (PI): 基于社交关系的新闻自动摘要与虚假信息对抗    
+- NSFC YSF (PI): 基于社交关系的新闻自动摘要与虚假信息对抗
+- Tencent Rhino-Bird Focused Research Program (PI): Value-aligned Credible Large Language Model
+- Huawei gift fund (PI): Code Generation Techniques in Compound AI Systems and Applications
 &emsp;  
 
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Academic Services</span></span></p>
 
+- **Conference Senior Area Chair (SAC)**: AACL 2025
 - **Conference Area Chair (AC)**: AACL 2023, NAACL 2024, ACL 2024, EMNLP 2024, NLPCC 2024
 - **Workshop Organizer**: [Preventing and Detecting LLM Generated Misinformation@AAAI-25](https://aaai2025-llm-misinformation.github.io/)
 - **Conference Session co-Chair**: COLING 2020
