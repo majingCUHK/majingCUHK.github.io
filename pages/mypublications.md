@@ -18,6 +18,10 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2025
+* ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use            
+Kaixin Li, Meng Ziyang, Hongzhan Lin, Ziyang Luo, Yuchen Tian, **Jing Ma***, Zhiyong Huang, Tat-Seng Chua         
+**ACMMM 2025**: The 33rd ACM International Conference on Multimedia, Oct 2025, Dublin, Ireland.
+  
 * Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models            
 Ziyang Luo,  Kaixin Li, Hongzhan Lin, Yuchen Tian, Mohan Kankanhalli, **Jing Ma***         
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
