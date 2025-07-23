@@ -58,7 +58,7 @@ Ziyang Luo,  Haoning Wu, Dongxu Li, **Jing Ma**, Mohan Kankanhalli, Junnan Li
 Ruichao Yang, **Jing Ma***, Wei Gao, Hongzhan Lin    
 **TIST**: ACM Transactions on Intelligent Systems and Technology.
 
-* GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse          
+* GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse  \[[PDF](https://dl.acm.org/doi/10.1145/3729239)\]          
 Hongzhan Lin, Ziyang Luo, Bo Wang, Ruichao Yang, **Jing Ma***    
 **TIST**: ACM Transactions on Intelligent Systems and Technology.
 
