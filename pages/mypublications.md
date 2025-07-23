@@ -50,7 +50,7 @@ Shuai Niu, **Jing Ma**, Hongzhan Lin, Liang Bai, Zhihua Wang, Wei Bi, Richard Yi
 Yuxi SUN, Aoqi Zuo, Wei Gao, **Jing Ma***          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
-* VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation            
+* VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation  \[[PDF](https://majingcuhk.github.io/references/CVPR-2025_paper.pdf)\]            
 Ziyang Luo,  Haoning Wu, Dongxu Li, **Jing Ma**, Mohan Kankanhalli, Junnan Li         
 **CVPR 2025**: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, Jun 2025, Nashville TN.
 
