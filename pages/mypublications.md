@@ -22,31 +22,31 @@ show-avatar: false
 Kaixin Li, Meng Ziyang, Hongzhan Lin, Ziyang Luo, Yuchen Tian, **Jing Ma***, Zhiyong Huang, Tat-Seng Chua         
 **ACMMM 2025**: The 33rd ACM International Conference on Multimedia, Oct 2025, Dublin, Ireland.
   
-* Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models            
+* Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Luo.pdf)\]            
 Ziyang Luo,  Kaixin Li, Hongzhan Lin, Yuchen Tian, Mohan Kankanhalli, **Jing Ma***         
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
 
-* FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models            
+* FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Lin.pdf)\]            
 Hongzhan Lin, Yang Deng, Yuxuan Gu, Wenxuan Zhang, **Jing Ma***, See-Kiong Ng, Tat-Seng Chua          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
 
-* AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Meme Harmfulness            
+* AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Meme Harmfulness  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Chen.pdf)\]            
 Zixin Chen, Hongzhan Lin, Kaixin Li, Ziyang Luo, Zhen Ye, Guang Chen, Zhiyong Huang, **Jing Ma***          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
 
-* Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models            
+* Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Niu.pdf)\]            
 Shuai Niu, **Jing Ma**, Hongzhan Lin, Liang Bai, Zhihua Wang, Richard Yi Da Xu, Yunya Song, Xian Yang          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
   
-* SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs         
+* SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Kong.pdf)\]         
 Chuyi Kong, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, **Jing Ma***          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
-* ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series            
+* ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series  \[[PDF](https://majingcuhk.github.io/references/ACL2025-find-Niu.pdf)\]            
 Shuai Niu, **Jing Ma**, Hongzhan Lin, Liang Bai, Zhihua Wang, Wei Bi, Richard Yi Da Xu, Guo Li, Xian Yang          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
-* CausalAbstain: Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention            
+* CausalAbstain: Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Sun.pdf)\]            
 Yuxi SUN, Aoqi Zuo, Wei Gao, **Jing Ma***          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
