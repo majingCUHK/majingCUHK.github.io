@@ -27,7 +27,7 @@ Gailun Zeng, Ziyang Luo, Hongzhan Lin, Yuchen Tian, Kaixin Li, Ziyang Gong, Jian
 **EMNLP 2025**: The 2025 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2025, Suzhou, China.  
 
 * ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use            
-Kaixin Li, Meng Ziyang, Hongzhan Lin, Ziyang Luo, Yuchen Tian, **Jing Ma***, Zhiyong Huang, Tat-Seng Chua         
+Kaixin Li, Meng Ziyang, Hongzhan Lin, Ziyang Luo, Yuchen Tian, **Jing Ma**, Zhiyong Huang, Tat-Seng Chua         
 **ACMMM 2025**: The 33rd ACM International Conference on Multimedia, Oct 2025, Dublin, Ireland.
   
 * Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Luo.pdf)\]            
