@@ -18,6 +18,14 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2025
+* MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models             
+Zixin Chen, Hongzhan Lin, Kaixin Li, Ziyang Luo, Yayue Deng, **Jing Ma**         
+**EMNLP 2025**: The 2025 Conference on Empirical Methods in Natural Language Processing, Nov 2025, Suzhou, China.
+
+* MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique             
+Gailun Zeng, Ziyang Luo, Hongzhan Lin, Yuchen Tian, Kaixin Li, Ziyang Gong, Jianxiong Guo, **Jing Ma**         
+**EMNLP 2025**: The 2025 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2025, Suzhou, China.  
+
 * ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use            
 Kaixin Li, Meng Ziyang, Hongzhan Lin, Ziyang Luo, Yuchen Tian, **Jing Ma***, Zhiyong Huang, Tat-Seng Chua         
 **ACMMM 2025**: The 33rd ACM International Conference on Multimedia, Oct 2025, Dublin, Ireland.
