@@ -23,6 +23,7 @@
     - IEEE Transactions on Big Data (TBD)
     - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
     - PLOS ONE
+    - Pattern Recognition
     - Neurocomputing
 - **External Reviewer**: IJCAI 2020, ACL 2015-2017, EMNLP 2015-2017, SIGIR 2016-2017, CIKM 2016, PACLIC 2016, ASONAM 2016-2019  
 &emsp;    
@@ -39,6 +40,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Invited Talks</b></span></span></p>
 
+- “Large Language Model for Coding” at Huawei, Online, May 22nd, 2025.
 - “Large Language Model for Social Safety”, Keynote Speaker at [SSNLP 2024](https://wing-nus.github.io/SSNLP-2024/), Singapore, Nov 6th, 2024.
 - “Large Language Model: Background, Techniques and our development”, at [How Well Can AI Assist Us in Coding and Grading Tasks?](https://www.aiforeducation.net/event-details/how-well-can-ai-assist-us-in-coding-and-grading-tasks), Hong Kong, Nov 30th, 2023.
 - “Social Context Assisted Fact-checking via Weakly Supervised Learning” at [AI NEW HORIZONS 2023: A Symposium with Scientific Leaders](https://ai-newhorizons2023.com/), Hong Kong, Nov 18th, 2023.
