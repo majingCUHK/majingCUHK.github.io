@@ -12,9 +12,9 @@
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Academic Services</b></span></span></p>
 
 - **Conference Senior Area Chair (SAC)**: AACL 2025
-- **Conference Area Chair (AC)**: AACL 2023, NAACL 2024, ACL 2024-2025, EMNLP 2024-2025, NLPCC 2024
+- **Conference Area Chair (AC)**: AACL 2023, NAACL 2024, ACL 2024-2025, EMNLP 2024-2025, NLPCC 2024, AAAI 2026
 - **Workshop Organizer**: [Preventing and Detecting LLM Generated Misinformation@AAAI-25](https://aaai2025-llm-misinformation.github.io/)
-- **Conference Program Committee Member (PC)**: ACM MM 2025, WSDM 2023-2024, EACL 2023, AACL 2022, WWW 2021 2023-2024, PAKDD 2024, CIKM 2020, AAAI 2019-2022, ACL 2019, EMNLP 2018-2019, AI 2019
+- **Conference Program Committee Member (PC)**: ICLR 2026, AAAI 2026, ACM MM 2025, WSDM 2023-2024, EACL 2023, AACL 2022, WWW 2021 2023-2024, PAKDD 2024, CIKM 2020, AAAI 2019-2022, ACL 2019, EMNLP 2018-2019, AI 2019
 - **Journal Reviewer**:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     - IEEE Transactions on Knowledge and Data Engineering (TKDE)
