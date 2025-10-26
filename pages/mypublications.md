@@ -18,6 +18,10 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2025
+* Explainable Ethical Assessment on Human Behaviors by Generating Conflicting Social Norms              
+Yuxi SUN, Wei Gao, Hongzhan Lin, **Jing Ma***, Wenxuan Zhang          
+**AACL 2025**: The 14nd Asia-Pacific Chapter of the Association for Computational Linguistics, Dec 2025, Mumbai, India.
+  
 * MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models             
 Zixin Chen, Hongzhan Lin, Kaixin Li, Ziyang Luo, Yayue Deng, **Jing Ma**         
 **EMNLP 2025**: The 2025 Conference on Empirical Methods in Natural Language Processing, Nov 2025, Suzhou, China.
