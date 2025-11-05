@@ -22,11 +22,11 @@ show-avatar: false
 Yuxi SUN, Wei Gao, Hongzhan Lin, **Jing Ma***, Wenxuan Zhang          
 **AACL 2025**: The 14nd Asia-Pacific Chapter of the Association for Computational Linguistics, Dec 2025, Mumbai, India.
   
-* MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models             
+* MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models  \[[PDF](https://majingcuhk.github.io/references/EMNLP-Chen-2025)\]             
 Zixin Chen, Hongzhan Lin, Kaixin Li, Ziyang Luo, Yayue Deng, **Jing Ma**         
 **EMNLP 2025**: The 2025 Conference on Empirical Methods in Natural Language Processing, Nov 2025, Suzhou, China.
 
-* MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique             
+* MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique  \[[PDF](https://majingcuhk.github.io/references/EMNLP-find-Zeng-2025.pdf)\]             
 Gailun Zeng, Ziyang Luo, Hongzhan Lin, Yuchen Tian, Kaixin Li, Ziyang Gong, Jianxiong Guo, **Jing Ma**         
 **EMNLP 2025**: The 2025 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2025, Suzhou, China.  
 
