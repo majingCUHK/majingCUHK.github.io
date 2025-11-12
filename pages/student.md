@@ -27,6 +27,7 @@
 
 <p><span style="font-family: georgia, serif; font-size: 26px;"><b>Visiting Students and Research Assistants</b></span></p>
 
+- Hu, Shuguo [Msc, Inner Mongolia University, Oct, 2025 - Feb, 2026 ]
 - Zeng, Gailun [PhD, Beijing Normal University-Hong Kong Baptist University, Mar, 2025 - Mar, 2026 ]
 - [Wang, Bo](https://scholar.google.com.hk/citations?user=AwFj_u8AAAAJ&hl=en) [PhD, Jilin University, Mar, 2023 - Mar, 2024 ]
 - [YANG, Zhiwei](https://scholar.google.com/citations?user=SmOi-WYAAAAJ&hl=zh-CN) [PhD, Jilin University, Mar, 2021 - Dec, 2022 ]
