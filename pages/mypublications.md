@@ -38,7 +38,7 @@ Gailun Zeng, Ziyang Luo, Hongzhan Lin, Yuchen Tian, Kaixin Li, Ziyang Gong, Jian
 
 * ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use  \[[PDF](https://majingcuhk.github.io/references/ACMMM25.pdf)\]            
 Kaixin Li, Meng Ziyang, Hongzhan Lin, Ziyang Luo, Yuchen Tian, **Jing Ma**, Zhiyong Huang, Tat-Seng Chua         
-**ACMMM 2025**: The 33rd ACM International Conference on Multimedia, Oct 2025, Dublin, Ireland.
+**ACM MM 2025**: The 33rd ACM International Conference on Multimedia, Oct 2025, Dublin, Ireland.
   
 * Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Luo.pdf)\]            
 Ziyang Luo,  Kaixin Li, Hongzhan Lin, Yuchen Tian, Mohan Kankanhalli, **Jing Ma***         
