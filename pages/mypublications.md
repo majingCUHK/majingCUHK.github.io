@@ -19,7 +19,7 @@ show-avatar: false
 
 ## 2026
 * LLM-based Few-Shot Early Rumor Detection with Imitation Agent              
-Fengzhu ZENG, Qian Shao, Ling Cheng, Wei Gao, Shih-Fen Cheng, **Jing Ma***, Cheng Niu           
+Fengzhu ZENG, Qian Shao, Ling Cheng, Wei Gao, Shih-Fen Cheng, **Jing Ma**, Cheng Niu           
 **ACM KDD 2026**: The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 2026, Jeju, South Korea.
 &emsp;
 
