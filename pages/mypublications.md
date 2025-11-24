@@ -21,6 +21,10 @@ show-avatar: false
 * LLM-based Few-Shot Early Rumor Detection with Imitation Agent              
 Fengzhu ZENG, Qian Shao, Ling Cheng, Wei Gao, Shih-Fen Cheng, **Jing Ma**, Cheng Niu           
 **ACM KDD 2026**: The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 2026, Jeju, South Korea.
+
+* EXPLAINHM++: Explainable Harmful Meme Detection with Retrieval-Augmented Debate between Large Multimodal Models       
+Hongzhan Lin, Wei Gao, **Jing Ma***, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yang, Tat-Seng Chua   
+**TKDE**: The IEEE Transactions on Knowledge and Data Engineering.    
 &emsp;
 
 ## 2025
