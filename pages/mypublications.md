@@ -18,7 +18,7 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2026
-* LLM-based Few-Shot Early Rumor Detection with Imitation Agent              
+* LLM-based Few-Shot Early Rumor Detection with Imitation Agent  \[[PDF](https://arxiv.org/abs/2512.18352)\]               
 Fengzhu ZENG, Qian Shao, Ling Cheng, Wei Gao, Shih-Fen Cheng, **Jing Ma**, Cheng Niu           
 **ACM KDD 2026**: The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 2026, Jeju, South Korea.
 
@@ -28,7 +28,7 @@ Hongzhan Lin, Wei Gao, **Jing Ma***, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yan
 &emsp;
 
 ## 2025
-* Explainable Ethical Assessment on Human Behaviors by Generating Conflicting Social Norms              
+* Explainable Ethical Assessment on Human Behaviors by Generating Conflicting Social Norms  \[[PDF](https://arxiv.org/abs/2512.15793)\]                 
 Yuxi SUN, Wei Gao, Hongzhan Lin, **Jing Ma***, Wenxuan Zhang          
 **AACL 2025**: The 14nd Asia-Pacific Chapter of the Association for Computational Linguistics, Dec 2025, Mumbai, India.
   
