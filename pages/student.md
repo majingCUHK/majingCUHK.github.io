@@ -7,7 +7,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Graduate Students</b></span></span></p>
 
-- [YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Oct, 2024]
+- [YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Nov, 2024]
 - NIU, Shuai [PhD, Aug, 2020 - Nov, 2025 ]
 - [LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - Sep, 2025]
 - [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) [PhD, Aug, 2022 - ]
