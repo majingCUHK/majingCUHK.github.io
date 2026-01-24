@@ -5,11 +5,8 @@
   
 &emsp;
 
-<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Graduate Students</b></span></span></p>
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Current Students</b></span></span></p>
 
-- [YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Nov, 2024]
-- NIU, Shuai [PhD, Aug, 2020 - Nov, 2025 ]
-- [LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - Sep, 2025]
 - [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) [PhD, Aug, 2022 - ]
 - SUN, Yuxi [PhD, Aug, 2023 - ]
 - KONG, Chuyi [PhD, Aug, 2024 - ]
@@ -17,6 +14,14 @@
 - [TIAN, Yuchen](https://scholar.google.com/citations?user=yfcxbMcAAAAJ&hl=zh-CN) [PhD, Jan, 2025 - ]
 - CAO, Shidong [PhD, Aug, 2025 - ]
 
+&emsp;
+
+<p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Team Alumni</b></span></span></p>
+
+- [YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Nov, 2024]
+- NIU, Shuai [PhD, Aug, 2020 - Nov, 2025 ]
+- [LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - Sep, 2025]
+  
 &emsp;
 
 <p><span style="font-family:georgia,serif; font-size:26px;"><b>Undergraduate Students</b></span></p>
