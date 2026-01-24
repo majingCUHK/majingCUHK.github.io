@@ -7,7 +7,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Current PhD Students</b></span></span></p>
 
-- [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) [PhD, Aug, 2022 - ] <br>
+- [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) [PhD, Aug, 2022 - ] <br> (2022 Fall)
 - SUN, Yuxi [PhD, Aug, 2023 - ]
 - KONG, Chuyi [PhD, Aug, 2024 - ]
 - FU, Rao [PhD, Aug, 2024 - ]
