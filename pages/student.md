@@ -18,9 +18,9 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Team Alumni</b></span></span></p>
 
-- [YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Nov, 2024]
-- NIU, Shuai [PhD, Aug, 2020 - Nov, 2025 ]
-- [LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - Sep, 2025]
+- [Dr. YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Nov, 2024] (now: Lecture at The University of Science and Technology Beijing)
+- [Dr. LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - Sep, 2025] (now: Research Scientist at Salesforce AI)
+- Dr. NIU, Shuai [PhD, Aug, 2020 - Nov, 2025 ] (co-supervised with Dr. Yang Xian)
   
 &emsp;
 
