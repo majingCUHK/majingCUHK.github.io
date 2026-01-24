@@ -7,7 +7,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Current PhD Students</b></span></span></p>
 
-- [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) —- Msc, Bejing University of Posts and Telecommunications <br> (2022 Fall - now), Focus: Harmful Meme Detection
+- [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) — Msc, Bejing University of Posts and Telecommunications <br> (2022 Fall - now), Focus: Harmful Meme Detection
 - SUN, Yuxi [PhD, Aug, 2023 - ]
 - KONG, Chuyi [PhD, Aug, 2024 - ]
 - FU, Rao [PhD, Aug, 2024 - ]
