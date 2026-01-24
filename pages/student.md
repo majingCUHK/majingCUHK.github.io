@@ -8,11 +8,11 @@
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Current PhD Students</b></span></span></p>
 
 - [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) — Msc, Bejing University of Posts and Telecommunications <br> (2022 Fall - now), Focus: Harmful Meme Detection
-- SUN, Yuxi [PhD, Aug, 2023 - ]
-- KONG, Chuyi [PhD, Aug, 2024 - ]
-- FU, Rao [PhD, Aug, 2024 - ]
-- [TIAN, Yuchen](https://scholar.google.com/citations?user=yfcxbMcAAAAJ&hl=zh-CN) [PhD, Jan, 2025 - ]
-- CAO, Shidong [PhD, Aug, 2025 - ]
+- SUN, Yuxi — Msc, City University of Hong Kong <br> (2023 Fall - now), Focus: Ethical LLM, Fact-checking
+- KONG, Chuyi — Msc, City University of Hong Kong <br> (2024 Fall - now), Focus: LLM agents, Fact-checking 
+- FU, Rao — Bsc, Jilin University <br> (2024 Fall - now), Focus: LLM reasoning
+- [TIAN, Yuchen](https://scholar.google.com/citations?user=yfcxbMcAAAAJ&hl=zh-CN) — Msc, Hong Kong University of Science and Technology <br> (2025 Spring - now), Focus: Code Generation 
+- CAO, Shidong — Msc, Zhejiang University <br> (2025 Fall - now), Focus: Diffusion Model  
 
 &emsp;
 
