@@ -36,7 +36,7 @@ Hongzhan Lin, Wei Gao, **Jing Ma***, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yan
 &emsp;
 
 ## 2025
-* Explainable Ethical Assessment on Human Behaviors by Generating Conflicting Social Norms  \[[PDF](https://arxiv.org/abs/2512.15793)\]                 
+* Explainable Ethical Assessment on Human Behaviors by Generating Conflicting Social Norms  \[[PDF](https://majingcuhk.github.io/references/AACL-2025.pdf)\]                 
 Yuxi SUN, Wei Gao, Hongzhan Lin, **Jing Ma***, Wenxuan Zhang          
 **AACL 2025**: The 14nd Asia-Pacific Chapter of the Association for Computational Linguistics, Dec 2025, Mumbai, India.
   
