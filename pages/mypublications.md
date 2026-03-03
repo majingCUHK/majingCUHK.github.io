@@ -18,12 +18,16 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2026
+* Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection        
+Ruichao Yang, Wei Gao, Xiaobin Zhu, **Jing Ma**, Hongzhan Lin, et al.        
+**CVPR 2026**: Conference on Computer Vision and Pattern Recognition 2026, Jun 2026, Colorado, United States.
+
 * On the Wings of Imagination: Conflicting Script-based Multi-role Framework for Humor Caption Generation        
 Wenbo Shang, Yuxi Sun, **Jing Ma**, Xin Huang        
 **ICLR 2026**: The Fourteenth International Conference on Learning Representations, Apr 2026, Rio de Janeiro, Brazil.
 
 * EvolProver: Advancing Automated theorem proving by Evolving Formalized Problems via Symmetry and Difficulty        
-Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, **Jing Ma**, Zengfeng Huang, Ziyang Luo, Hongzhan Lin, Da Zheng, Lun Du         
+Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, **Jing Ma**, Zengfeng Huang, et al.          
 **ICLR 2026**: The Fourteenth International Conference on Learning Representations, Apr 2026, Rio de Janeiro, Brazil.
 
 * LLM-based Few-Shot Early Rumor Detection with Imitation Agent  \[[PDF](https://arxiv.org/abs/2512.18352)\]               
