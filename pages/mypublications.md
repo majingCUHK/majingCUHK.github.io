@@ -35,7 +35,7 @@ Fengzhu ZENG, Qian Shao, Ling Cheng, Wei Gao, Shih-Fen Cheng, **Jing Ma**, Cheng
 **ACM KDD 2026**: The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 2026, Jeju, South Korea.
 
 * A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM         
-Bo Wang, **Jing Ma***, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian*, Yi Chang*        
+Bo Wang, **Jing Ma***, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian&#42, Yi Chang*        
 **TOIS**: The ACM Transactions on Information Systems.
 
 * EXPLAINHM++: Explainable Harmful Meme Detection with Retrieval-Augmented Debate between Large Multimodal Models  \[[PDF](https://ieeexplore.ieee.org/document/11269674)\]       
