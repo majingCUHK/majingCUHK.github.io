@@ -18,6 +18,22 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2026
+* REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control           
+Chuyi Kong, Wei Gao, **Jing Ma***，Hongzhan Lin, Yuxi SUN,           
+**ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
+
+* FACT-E: Causality-Inspired Evaluation for Trustworthy Chain-of-Thought Reasoning           
+Yuxi Sun, Aoqi Zuo, Haotian Xie, Wei Gao, Mingming Gong, **Jing Ma***          
+**ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
+
+* DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs           
+Shidong Cao, Hongzhan Lin, Yuxuan Gu, Ziyang Luo, **Jing Ma***          
+**ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
+
+* From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms           
+Jinghao Luo, Yuchen Tian, Chuxue Cao, Ziyang Luo, Hongzhan Lin, Kaixin Li, Chuyi Kong, Ruichao Yang, **Jing Ma***          
+**ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
+      
 * Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection        
 Ruichao Yang, Wei Gao, Xiaobin Zhu, **Jing Ma**, Hongzhan Lin, et al.        
 **CVPR 2026**: Conference on Computer Vision and Pattern Recognition 2026, Jun 2026, Colorado, United States.
