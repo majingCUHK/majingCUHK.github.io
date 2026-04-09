@@ -30,6 +30,10 @@ Yuxi Sun, Aoqi Zuo, Haotian Xie, Wei Gao, Mingming Gong, **Jing Ma***
 Shidong Cao, Hongzhan Lin, Yuxuan Gu, Ziyang Luo, **Jing Ma***          
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
 
+* Dialectical Structured Reasoning for Explainable Multimodal Fake News Detection           
+Ruichao Yang, Yufan Bian, Wei Gao, Bo-Wen Zhang, **Jing Ma***, et al.          
+**ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
+
 * From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms           
 Jinghao Luo, Yuchen Tian, Chuxue Cao, Ziyang Luo, Hongzhan Lin, Kaixin Li, Chuyi Kong, Ruichao Yang, **Jing Ma***          
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
