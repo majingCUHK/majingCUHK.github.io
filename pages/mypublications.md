@@ -20,7 +20,7 @@ show-avatar: false
 ## 2026
 * REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control           
 Chuyi Kong, Wei Gao, **Jing Ma***，Hongzhan Lin, Yuxi SUN,           
-**ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
+**ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics, Jul 2025, San Diego, California.
 
 * FACT-E: Causality-Inspired Evaluation for Trustworthy Chain-of-Thought Reasoning           
 Yuxi Sun, Aoqi Zuo, Haotian Xie, Wei Gao, Mingming Gong, **Jing Ma***          
