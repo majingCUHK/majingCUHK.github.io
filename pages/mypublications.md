@@ -327,10 +327,7 @@ Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava
 * Detect Rumors Using Time Series of Social Context Information on Microblogging Websites \[[PDF](https://majingcuhk.github.io/references/CIKM-2015.pdf)\]       
 **Jing Ma**, Wei Gao, Zhongyu Wei, Yueming Lu, and Kam-Fai Wong    
 **CIKM 2015**: The 24th ACM International Conference on Information and Knowledge Management, October 2015, Melbourne, Australia. 
-
-* UIR-PKU: Twitter-OpinMiner System for Sentiment Analysis in Twitter at SemEval 2015 \[[PDF](https://majingcuhk.github.io/references/SEMEVAL-2015.pdf)\]       
-Xu Han, Binyang Li, **Jing Ma**, Yuxiao Zhang, Gaoyan Ou, Tengjiao Wang, Kam-fai Wong      
-**SemEval 2015**: The 9th International Workshop on Semantic Evaluation, May 2015, Denver, Colorado, USA. 
+ 
 &emsp;
 
 ## Before 2015  
