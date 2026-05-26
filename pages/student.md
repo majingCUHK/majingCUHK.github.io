@@ -20,7 +20,7 @@
 - [Dr. YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Nov, 2024] (now: Lecture at The University of Science and Technology Beijing) Focus: Rumor Verification and Stance Detection
 - [Dr. LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - Sep, 2025] (now: Research Scientist at Salesforce AI) Focus: Code LLM
 - Dr. NIU, Shuai [PhD, Aug, 2020 - Nov, 2025 ] (co-supervised with [Dr. Yang Xian](https://research.manchester.ac.uk/en/persons/xian.yang)) Focus: Medical LLM
-- [Dr. LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) [PhD, Aug, 2022 - May, 2026] (now: Posdoc at National University of Singapore) Focus: Harmful Meme Detection
+- [Dr. LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) [PhD, Aug, 2022 - May, 2026] (now: Posdoc at National University of Singapore) Focus: Low-resource rumor detection, Harmful Meme Detection
   
 &emsp;
 
