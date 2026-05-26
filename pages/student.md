@@ -7,7 +7,6 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Current PhD Students</b></span></span></p>
 
-- [LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) — Msc, Bejing University of Posts and Telecommunications <br> (2022 Fall - now), Focus: Harmful Meme Detection
 - SUN, Yuxi — Msc, City University of Hong Kong <br> (2023 Fall - now), Focus: Ethical LLM, Fact-checking
 - KONG, Chuyi — Msc, City University of Hong Kong <br> (2024 Fall - now), Focus: LLM agents, Fact-checking 
 - FU, Rao — Bsc, Jilin University <br> (2024 Fall - now), Focus: LLM reasoning
@@ -18,9 +17,10 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Team Alumni</b></span></span></p>
 
-- [Dr. YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Nov, 2024] (now: Lecture at The University of Science and Technology Beijing)
-- [Dr. LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - Sep, 2025] (now: Research Scientist at Salesforce AI)
-- Dr. NIU, Shuai [PhD, Aug, 2020 - Nov, 2025 ] (co-supervised with [Dr. Yang Xian](https://research.manchester.ac.uk/en/persons/xian.yang))
+- [Dr. YANG, Ruichao](https://scholar.google.com/citations?user=DI3rqUAAAAAJ&hl=en) [PhD, Aug, 2020 - Nov, 2024] (now: Lecture at The University of Science and Technology Beijing) Focus: Rumor Verification and Stance Detection
+- [Dr. LUO, Ziyang](https://scholar.google.com/citations?user=VI8NeJEAAAAJ&hl=zh-CN) [PhD, Aug, 2021 - Sep, 2025] (now: Research Scientist at Salesforce AI) Focus: Code LLM
+- Dr. NIU, Shuai [PhD, Aug, 2020 - Nov, 2025 ] (co-supervised with [Dr. Yang Xian](https://research.manchester.ac.uk/en/persons/xian.yang)) Focus: Medical LLM
+- [Dr. LIN, Hongzhan](https://scholar.google.com/citations?user=hOF1SLoAAAAJ&hl=zh-CN) [PhD, Aug, 2022 - May, 2026] (now: Posdoc at National University of Singapore) Focus: Harmful Meme Detection
   
 &emsp;
 
