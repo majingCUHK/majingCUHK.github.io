@@ -12,7 +12,7 @@
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Academic Services</b></span></span></p>
 
 - **Editorial Services**:
-  - June 2026--June 2028: Action Editor for Transactions of the Association for Computational Linguistics (TACL) 
+  - June 2026 - June 2028: Action Editor for Transactions of the Association for Computational Linguistics (TACL) 
 - **Conference Senior Area Chair (SAC)**: EMNLP 2026, AACL 2025
 - **Conference Area Chair (AC)**: AACL 2023, NAACL 2024, ACL 2024-2025, EMNLP 2024-2025, NLPCC 2024, AAAI 2026
 - **Workshop Organizer**: [Preventing and Detecting LLM Generated Misinformation@AAAI-25](https://aaai2025-llm-misinformation.github.io/)
