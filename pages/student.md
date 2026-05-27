@@ -7,7 +7,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Current PhD Students</b></span></span></p>
 
-- SUN, Yuxi — Msc, City University of Hong Kong <br> (2023 Fall - now), Research Focus: Ethical LLM, Fact-checking
+- [SUN, Yuxi](https://scholar.google.com/citations?user=bPDQJ-cAAAAJ&hl=zh-CN) — Msc, City University of Hong Kong <br> (2023 Fall - now), Research Focus: Ethical LLM, Fact-checking
 - KONG, Chuyi — Msc, City University of Hong Kong <br> (2024 Fall - now), Research Focus: LLM agents, Fact-checking 
 - FU, Rao — Bsc, Jilin University <br> (2024 Fall - now), Research Focus: LLM reasoning
 - [TIAN, Yuchen](https://scholar.google.com/citations?user=yfcxbMcAAAAJ&hl=zh-CN) — Msc, Hong Kong University of Science and Technology <br> (2025 Spring - now), Research Focus: Code Generation 
