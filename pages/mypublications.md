@@ -26,19 +26,19 @@ Chuyi Kong, Wei Gao, **Jing Ma***，Hongzhan Lin, Yuxi SUN,
 Yuxi Sun, Aoqi Zuo, Haotian Xie, Wei Gao, Mingming Gong, **Jing Ma***          
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
 
-* DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs           
+* DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs  \[[PrePrint](https://arxiv.org/abs/2601.03559)\]           
 Shidong Cao, Hongzhan Lin, Yuxuan Gu, Ziyang Luo, **Jing Ma***          
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
 
-* Dialectical Structured Reasoning for Explainable Multimodal Fake News Detection           
+* Dialectical Structured Reasoning for Explainable Multimodal Fake News Detection  \[[PrePrint](https://www.researchgate.net/publication/403963632_Dialectical_Structured_Reasoning_for_Explainable_Multimodal_Fake_News_Detection)\]            
 Ruichao Yang, Yufan Bian, Wei Gao, Bo-Wen Zhang, **Jing Ma***, et al.          
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
 
-* From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms           
+* From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms  \[[PrePrint](https://arxiv.org/abs/2605.06716)\]           
 Jinghao Luo, Yuchen Tian, Chuxue Cao, Ziyang Luo, Hongzhan Lin, Kaixin Li, Chuyi Kong, Ruichao Yang, **Jing Ma***          
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
       
-* Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection        
+* Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection  \[[PrePrint](https://arxiv.org/abs/2603.25203)\]        
 Ruichao Yang, Wei Gao, Xiaobin Zhu, **Jing Ma**, Hongzhan Lin, et al.        
 **CVPR 2026**: Conference on Computer Vision and Pattern Recognition 2026, Jun 2026, Colorado, United States.
 
