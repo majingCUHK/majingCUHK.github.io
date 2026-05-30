@@ -174,7 +174,7 @@ Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Ta
 Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**        
 **ICASSP 2024**: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, Apr 2024, Seoul, Korea.           
 
-*  Towards low-resource rumor detection: Unified contrastive transfer with propagation structure  \[[PDF](https://dl.acm.org/doi/10.1016/j.neucom.2024.127438)\]                   
+*  Towards low-resource rumor detection: Unified contrastive transfer with propagation structure  \[[PDF](https://dl.acm.org/doi/10.1016/j.neucom.2024.127438)\]  \[[PrePrint](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?params=/context/sis_research/article/9734/&path_info=Low_resourceRumourDetection_av.pdf)\]                   
 Hongzhan Lin, **Jing Ma**, Ruichao Yang, Zhiwei Yang, Mingfei Cheng                
 **Neurocomputing**.
 
