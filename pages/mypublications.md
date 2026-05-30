@@ -22,7 +22,7 @@ show-avatar: false
 Chuyi Kong, Wei Gao, **Jing Ma***，Hongzhan Lin, Yuxi SUN,           
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics, Jul 2025, San Diego, California.
 
-* FACT-E: Causality-Inspired Evaluation for Trustworthy Chain-of-Thought Reasoning           
+* FACT-E: Causality-Inspired Evaluation for Trustworthy Chain-of-Thought Reasoning  \[[PrePrint](https://arxiv.org/abs/2604.10693)\]           
 Yuxi Sun, Aoqi Zuo, Haotian Xie, Wei Gao, Mingming Gong, **Jing Ma***          
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
 
