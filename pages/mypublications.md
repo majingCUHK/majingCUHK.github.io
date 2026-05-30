@@ -178,7 +178,7 @@ Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**
 Hongzhan Lin, **Jing Ma**, Ruichao Yang, Zhiwei Yang, Mingfei Cheng                
 **Neurocomputing**.
 
-*  CoTea: Collaborative Teaching for Low-resource Named Entity Recognition with A Divide-and-conquer Strategy  \[[PDF](https://dl.acm.org/doi/10.1016/j.ipm.2024.103657)\]              
+*  CoTea: Collaborative Teaching for Low-resource Named Entity Recognition with A Divide-and-conquer Strategy  \[[PDF](https://dl.acm.org/doi/10.1016/j.ipm.2024.103657)\]  \[[PrePrint](https://majingcuhk.github.io/references/CoTea_preprint.pdf)\]              
 Zhiwei Yang, **Jing Ma**, Kang Yang, Huiru Lin, Hechang Chen, Ruichao Yang and Yi Chang           
 **Information Processing and Management**.
 
