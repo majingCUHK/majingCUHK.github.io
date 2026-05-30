@@ -42,11 +42,11 @@ Jinghao Luo, Yuchen Tian, Chuxue Cao, Ziyang Luo, Hongzhan Lin, Kaixin Li, Chuyi
 Ruichao Yang, Wei Gao, Xiaobin Zhu, **Jing Ma**, Hongzhan Lin, et al.        
 **CVPR 2026**: Conference on Computer Vision and Pattern Recognition 2026, Jun 2026, Colorado, United States.
 
-* On the Wings of Imagination: Conflicting Script-based Multi-role Framework for Humor Caption Generation  \[[PDF](https://majingcuhk.github.io/references/ICLR2026-Humor.pdf)\]        
+* On the Wings of Imagination: Conflicting Script-based Multi-role Framework for Humor Caption Generation  \[[PDF](https://openreview.net/pdf?id=SzaRhPom4o)\]        
 Wenbo Shang, Yuxi Sun, **Jing Ma**, Xin Huang        
 **ICLR 2026**: The Fourteenth International Conference on Learning Representations, Apr 2026, Rio de Janeiro, Brazil.
 
-* EvolProver: Advancing Automated theorem proving by Evolving Formalized Problems via Symmetry and Difficulty  \[[PDF](https://majingcuhk.github.io/references/ICLR2026-EvolProver.pdf)\]        
+* EvolProver: Advancing Automated theorem proving by Evolving Formalized Problems via Symmetry and Difficulty  \[[PDF](https://openreview.net/pdf?id=cBoYkLG3EJ)\]        
 Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, **Jing Ma**, Zengfeng Huang, et al.          
 **ICLR 2026**: The Fourteenth International Conference on Learning Representations, Apr 2026, Rio de Janeiro, Brazil.
 
@@ -64,51 +64,51 @@ Hongzhan Lin, Wei Gao, **Jing Ma***, Yang Deng, Ziyang Luo, Bo Wang, Ruichao Yan
 &emsp;
 
 ## 2025
-* Explainable Ethical Assessment on Human Behaviors by Generating Conflicting Social Norms  \[[PDF](https://majingcuhk.github.io/references/AACL-2025.pdf)\]                 
+* Explainable Ethical Assessment on Human Behaviors by Generating Conflicting Social Norms  \[[PDF](https://aclanthology.org/2025.ijcnlp-long.11.pdf)\]                 
 Yuxi SUN, Wei Gao, Hongzhan Lin, **Jing Ma***, Wenxuan Zhang          
 **AACL 2025**: The 14nd Asia-Pacific Chapter of the Association for Computational Linguistics, Dec 2025, Mumbai, India.
   
-* MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models  \[[PDF](https://majingcuhk.github.io/references/EMNLP-Chen-2025.pdf)\]   \[[CODE](https://github.com/Lbotirx/MemeArena)\]            
+* MemeArena: Automating Context-Aware Unbiased Evaluation of Harmfulness Understanding for Multimodal Large Language Models  \[[PDF](https://aclanthology.org/2025.emnlp-main.890.pdf)\]   \[[CODE](https://github.com/Lbotirx/MemeArena)\]            
 Zixin Chen, Hongzhan Lin, Kaixin Li, Ziyang Luo, Yayue Deng, **Jing Ma**         
 **EMNLP 2025**: The 2025 Conference on Empirical Methods in Natural Language Processing, Nov 2025, Suzhou, China.
 
-* MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique  \[[PDF](https://majingcuhk.github.io/references/EMNLP-find-Zeng-2025.pdf)\]             
+* MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique  \[[PDF](https://aclanthology.org/2025.findings-emnlp.733.pdf)\]             
 Gailun Zeng, Ziyang Luo, Hongzhan Lin, Yuchen Tian, Kaixin Li, Ziyang Gong, Jianxiong Guo, **Jing Ma**         
 **EMNLP 2025**: The 2025 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2025, Suzhou, China.  
 
-* ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use  \[[PDF](https://majingcuhk.github.io/references/ACMMM25.pdf)\]            
+* ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use  \[[PDF](https://dl.acm.org/doi/10.1145/3746027.3755688)\]            
 Kaixin Li, Meng Ziyang, Hongzhan Lin, Ziyang Luo, Yuchen Tian, **Jing Ma**, Zhiyong Huang, Tat-Seng Chua         
 **ACM MM 2025**: The 33rd ACM International Conference on Multimedia, Oct 2025, Dublin, Ireland.
   
-* Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Luo.pdf)\]            
+* Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models  \[[PDF](https://aclanthology.org/2025.acl-long.14.pdf)\]            
 Ziyang Luo,  Kaixin Li, Hongzhan Lin, Yuchen Tian, Mohan Kankanhalli, **Jing Ma***         
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
 
-* FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Lin.pdf)\]            
+* FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models  \[[PDF](https://aclanthology.org/2025.acl-long.17.pdf)\]            
 Hongzhan Lin, Yang Deng, Yuxuan Gu, Wenxuan Zhang, **Jing Ma***, See-Kiong Ng, Tat-Seng Chua          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
 
-* AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Meme Harmfulness  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Chen.pdf)\]            
+* AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Meme Harmfulness  \[[PDF](https://aclanthology.org/2025.acl-long.213.pdf)\]            
 Zixin Chen, Hongzhan Lin, Kaixin Li, Ziyang Luo, Zhen Ye, Guang Chen, Zhiyong Huang, **Jing Ma***          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
 
-* Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Niu.pdf)\]            
+* Knowledge-Augmented Multimodal Clinical Rationale Generation for Disease Diagnosis with Small Language Models  \[[PDF](https://aclanthology.org/2025.acl-long.540.pdf)\]            
 Shuai Niu, **Jing Ma**, Hongzhan Lin, Liang Bai, Zhihua Wang, Richard Yi Da Xu, Yunya Song, Xian Yang          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics, Jul 2025, Vienna, Austria.
   
-* SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Kong.pdf)\]         
+* SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs  \[[PDF](https://aclanthology.org/2025.findings-acl.47.pdf)\]         
 Chuyi Kong, Ziyang Luo, Hongzhan Lin, Zhiyuan Fan, Yaxin Fan, Yuxi SUN, **Jing Ma***          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
-* ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series  \[[PDF](https://majingcuhk.github.io/references/ACL2025-find-Niu.pdf)\]            
+* ProMedTS: A Self-Supervised, Prompt-Guided Multimodal Approach for Integrating Medical Text and Time Series  \[[PDF](https://aclanthology.org/2025.findings-acl.308.pdf)\]            
 Shuai Niu, **Jing Ma**, Hongzhan Lin, Liang Bai, Zhihua Wang, Wei Bi, Richard Yi Da Xu, Guo Li, Xian Yang          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
-* CausalAbstain: Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention  \[[PDF](https://majingcuhk.github.io/references/ACL2025-Sun.pdf)\]            
+* CausalAbstain: Enhancing Multilingual LLMs with Causal Reasoning for Trustworthy Abstention  \[[PDF](https://aclanthology.org/2025.findings-acl.723.pdf)\]            
 Yuxi SUN, Aoqi Zuo, Wei Gao, **Jing Ma***          
 **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, Vienna, Austria.
 
-* VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation  \[[PDF](https://majingcuhk.github.io/references/CVPR-2025_paper.pdf)\]            
+* VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation  \[[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_VideoAutoArena_An_Automated_Arena_for_Evaluating_Large_Multimodal_Models_in_CVPR_2025_paper.pdf)\]    \[[PrePrint](https://arxiv.org/abs/2411.13281)\]        
 Ziyang Luo,  Haoning Wu, Dongxu Li, **Jing Ma**, Mohan Kankanhalli, Junnan Li         
 **CVPR 2025**: The IEEE/CVF Conference on Computer Vision and Pattern Recognition, Jun 2025, Nashville TN.
 
@@ -120,15 +120,15 @@ Ruichao Yang, **Jing Ma***, Wei Gao, Hongzhan Lin
 Hongzhan Lin, Ziyang Luo, Bo Wang, Ruichao Yang, **Jing Ma***    
 **TIST**: ACM Transactions on Intelligent Systems and Technology.
 
-* ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges  \[[PDF](https://majingcuhk.github.io/references/NAACL-2025-Fu.pdf)\]           
+* ScratchEval: Are GPT-4o Smarter than My Child? Evaluating Large Multimodal Models with Visual Programming Challenges  \[[PDF](https://aclanthology.org/2025.naacl-short.57.pdf)\]           
 Rao Fu, Ziyang Luo, Hongzhan Lin, Zhen Ye, **Jing Ma**    
 **NAACL 2025**: 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics, April, New Mexico.
 
-* Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers  \[[PDF](https://majingcuhk.github.io/references/AAAI-2025.pdf)\]          
+* Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers  \[[PDF](https://dl.acm.org/doi/10.1609/aaai.v39i8.32845)\]   \[[PrePrint](https://arxiv.org/abs/2412.15503)\]       
 Ruo F Wang, Hongzhan Lin, Ziyuan Luo, Ka Chun Cheung, Simon See, **Jing Ma**, Renjie Wan    
 **AAAI 2025**: The 39th AAAI Conference on Artificial Intelligence, Feb 2025, Philadelphia, Pennsylvania, USA.
   
-* CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?  \[[PDF](https://majingcuhk.github.io/references/COLING2025.pdf)\]  
+* CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?  \[[PDF](https://aclanthology.org/2025.coling-main.7.pdf)\]  
 Yuwei Zhao, Ziyang Luo, Yuchen Tian, Hongzhan Lin, Weixiang Yan, Annan Li, **Jing Ma**        
 **COLING 2025**: The 31th International Conference on Computational Linguistics, Jan 2025, Abu Dhabi, UAE.
 
@@ -138,47 +138,47 @@ Xinyi Zhong, Zusheng Tan, Jing Li, Shen Gao, **Jing Ma**, Shanshan Feng, Billy C
 &emsp;
 
 ## 2024
-* AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation  \[[PDF](https://majingcuhk.github.io/references/EMNLP-2024-Luo.pdf)\]          
+* AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation  \[[PDF](https://aclanthology.org/2024.emnlp-main.66.pdf)\]          
 Ziyang Luo, Xin Li, Hongzhan Lin, **Jing Ma**, Lidong Bing         
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida.
 
-* Towards Low-Resource Harmful Meme Detection with LMM Agents  \[[PDF](https://majingcuhk.github.io/references/EMNLP-2024-Lin.pdf)\]          
+* Towards Low-Resource Harmful Meme Detection with LMM Agents  \[[PDF](https://aclanthology.org/2024.emnlp-main.136.pdf)\]          
 Jianzhao Huang, Hongzhan Lin, ZiyanLiu, Ziyang Luo, Guang Chen, **Jing Ma**         
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing, Nov 2024, Miami, Florida.
 
-* MMCode: Benchmarking Multimodal Large Language Models in Code Generation with Visually Rich Programming Problems  \[[PDF](https://majingcuhk.github.io/references/EMNLP-2024-find.pdf)\]          
+* MMCode: Benchmarking Multimodal Large Language Models in Code Generation with Visually Rich Programming Problems  \[[PDF](https://aclanthology.org/2024.findings-emnlp.42.pdf)\]          
 Kaixin Li, Yuchen Tian, Qisheng Hu, Ziyang Luo, Zhiyong Huang, **Jing Ma**         
 **EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing (Findings), Nov 2024, Miami, Florida.  
   
-* CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-Chen.pdf)\]  \[[CODE](https://github.com/Lbotirx/CofiPara)\]       
+* CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models  \[[PDF](https://aclanthology.org/2024.acl-long.522.pdf)\]  \[[CODE](https://github.com/Lbotirx/CofiPara)\]       
 Zixin Chen, Hongzhan Lin, Ziyang Luo, Mingfei Cheng, **Jing Ma**, Guang Chen        
 **ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics, Aug 2024, Bangkok, Thailand.
 
-* Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models  \[[PDF](https://majingcuhk.github.io/references/ACL-2024-finding.pdf)\]  \[[CODE](https://github.com/HKBUNLP/JSDRV)\]         
+* Reinforcement Tuning for Detecting Stances and Debunking Rumors Jointly with Large Language Models  \[[PDF](https://aclanthology.org/2024.findings-acl.796.pdf)\]  \[[CODE](https://github.com/HKBUNLP/JSDRV)\]         
 Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Bo Wang        
 **ACL 2024**: The 62nd Annual Meeting of the Association for Computational Linguistics (Findings), Aug 2024, Bangkok, Thailand. 
 
-* Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models  \[[PDF](https://majingcuhk.github.io/references/WWW-2024-Lin.pdf)\]  \[[CODE](https://github.com/HKBUNLP/ExplainHM-WWW2024)\]       
+* Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models  \[[PDF](https://dl.acm.org/doi/10.1145/3589334.3645381)\]  \[[CODE](https://github.com/HKBUNLP/ExplainHM-WWW2024)\]   \[[PrePrint](https://arxiv.org/abs/2401.13298)\]    
 Hongzhan Lin, Ziyang Luo, Wei Gao, **Jing Ma**, Bo Wang, Ruichao Yang     
 **WWW 2024**: The Web Conference 2024, May 2024, Singapore. 
 
-* Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom  \[[PDF](https://majingcuhk.github.io/references/WWW-2024-wang.pdf)\]  \[[CODE](https://github.com/wangbo9719/L-Defense_EFND)\]       
+* Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom  \[[PDF](https://dl.acm.org/doi/10.1145/3589334.3645471)\]  \[[CODE](https://github.com/wangbo9719/L-Defense_EFND)\]   \[[PrePrint](https://arxiv.org/abs/2405.03371)\]    
 Bo Wang, **Jing Ma**, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian, Yi Chang     
 **WWW 2024**: The Web Conference 2024, May 2024, Singapore.
   
-*  WizardCoder: Empowering Code Large Language Models with Evol-Instruct  \[[PDF](https://majingcuhk.github.io/references/ICLR-2024.pdf)\]                          
+*  WizardCoder: Empowering Code Large Language Models with Evol-Instruct  \[[PDF](https://openreview.net/pdf?id=UnUwSIgK5W)\]                          
 Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, **Jing Ma***, Qingwei Lin, Daxin Jiang        
 **ICLR 2024**: The Twelfth International Conference on Learning Representations, May 2024, Vienna, Austria.
 
-*  Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework  \[[PDF](https://majingcuhk.github.io/references/ICASSP-2024.pdf)\]           
+*  Unleashing Trigger-Free Event Detection: Revealing Event Correlations via A Contrastive Derangement Framework  \[[PDF](https://ieeexplore.ieee.org/document/10448190)\]           
 Hongzhan Lin, Haiqin Yang, Ziyang Luo, **Jing Ma**        
 **ICASSP 2024**: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, Apr 2024, Seoul, Korea.           
 
-*  Towards low-resource rumor detection: Unified contrastive transfer with propagation structure  \[[PDF](https://majingcuhk.github.io/references/nerucomp.pdf)\]                   
+*  Towards low-resource rumor detection: Unified contrastive transfer with propagation structure  \[[PDF](https://dl.acm.org/doi/10.1016/j.neucom.2024.127438)\]                   
 Hongzhan Lin, **Jing Ma**, Ruichao Yang, Zhiwei Yang, Mingfei Cheng                
 **Neurocomputing**.
 
-*  CoTea: Collaborative Teaching for Low-resource Named Entity Recognition with A Divide-and-conquer Strategy  \[[PDF](https://majingcuhk.github.io/references/ELSEV-CoTea.pdf)\]              
+*  CoTea: Collaborative Teaching for Low-resource Named Entity Recognition with A Divide-and-conquer Strategy  \[[PDF](https://dl.acm.org/doi/10.1016/j.ipm.2024.103657)\]              
 Zhiwei Yang, **Jing Ma**, Kang Yang, Huiru Lin, Hechang Chen, Ruichao Yang and Yi Chang           
 **Information Processing and Management**.
 
@@ -188,23 +188,23 @@ Shuai Niu, **Jing Ma**, Qing Yin, Liang Bai, Chen Li and Xian Yang
 &emsp;
 
 ## 2023
-* WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom   \[[PDF](https://majingcuhk.github.io/references/EMNLP-2023-Yang.pdf)\]  \[[CODE](https://github.com/HKBUNLP/WSDMS-EMNLP2023)\]       
+* WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom   \[[PDF](https://aclanthology.org/2023.emnlp-main.94.pdf)\]  \[[CODE](https://github.com/HKBUNLP/WSDMS-EMNLP2023)\]       
 Ruichao Yang, Wei Gao, **Jing Ma**, Hongzhan Lin, Zhiwei Yang        
 **EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing, Dec 2023, Singapore.
 
-* Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models     \[[PDF](https://majingcuhk.github.io/references/EMNLP-2023-finding.pdf)\]  \[[CODE](https://github.com/HKBUNLP/Mr.Harm-EMNLP2023)\]           
+* Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models     \[[PDF](https://aclanthology.org/2023.findings-emnlp.611.pdf)\]  \[[CODE](https://github.com/HKBUNLP/Mr.Harm-EMNLP2023)\]           
 Hongzhan Lin, Ziyang Luo, **Jing Ma**, Long Chen        
 **EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing (Findings), Dec 2023, Singapore.
 
-* Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning   \[[PDF](https://majingcuhk.github.io/references/AAAI-2023.pdf)\]  \[[DATA](https://drive.google.com/file/d/1BZ-6a8chFCVATEyXH1vMO_CPAMOL0z-p/view)\]  \[[CODE](https://github.com/HKBUNLP/zeroRumor-AAAI23)\]       
+* Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning   \[[PDF](https://dl.acm.org/doi/10.1609/aaai.v37i4.25651)\]  \[[DATA](https://drive.google.com/file/d/1BZ-6a8chFCVATEyXH1vMO_CPAMOL0z-p/view)\]  \[[CODE](https://github.com/HKBUNLP/zeroRumor-AAAI23)\]  \[[PrePrint](https://arxiv.org/abs/2212.01117)\]      
 Hongzhan Lin, Pengyao Yi, **Jing Ma**, Haiyun Jiang, Ziyang Luo, Shuming Shi, Ruifang Liu    
 **AAAI 2023**: The Thirty-Seventh AAAI Conference on Artificial Intelligence, Feb 2023, Washington DC.
 
-* I-TUNING: Tuning Frozen Language Models with Image for Lightweight Image Captioning   \[[PDF](https://majingcuhk.github.io/references/ICASSP2023.pdf)\]          
+* I-TUNING: Tuning Frozen Language Models with Image for Lightweight Image Captioning   \[[PDF](https://ieeexplore.ieee.org/document/10096424?denied=)\]     \[[PrePrint](https://arxiv.org/abs/2202.06574)\]     
 Ziyang Luo, Zhipeng Hu, Yadong Xi, Rongsheng Zhang, **Jing Ma**    
 **ICASSP 2023**: 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, Jun 2023, Greece.
 
-* LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Sparse Retrieval   \[[PDF](https://majingcuhk.github.io/references/ICCV-2023.pdf)\]  \[[CODE](https://github.com/HKBUNLP/LexLIP-ICCV23)\]          
+* LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Sparse Retrieval   \[[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_LexLIP_Lexicon-Bottlenecked_Language-Image_Pre-Training_for_Large-Scale_Image-Text_Sparse_Retrieval_ICCV_2023_paper.pdf)\]  \[[CODE](https://github.com/HKBUNLP/LexLIP-ICCV23)\]   \[[PrePrint](https://arxiv.org/abs/2302.02908)\]             
 Ziyang Luo, Pu Zhao, Can Xu, Xiubo Geng, Tao Shen, Chongyang Tao, **Jing Ma**, Qingwei Lin, Daxin Jiang    
 **ICCV 2023**: International Conference on Computer Vision 2023, Oct 2023, Paris.
 
@@ -230,15 +230,15 @@ Ziyang Luo, Yadong Xi, **Jing Ma**, Zhiwei Yang, Xiaoxi Mao, Changjie Fan, Rongs
 Hongzhan Lin, **Jing Ma**, Liangliang Chen, Zhiwei Yang, Mingfei Cheng, Guang Chen    
 **NAACL 2022**: 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Findings), Jul 2022, Seattle.
 
-* A Weakly Supervised Propagation Model for Rumor Verification and Stance Detection with Multiple Instance Learning \[[PDF](https://majingcuhk.github.io/references/SIGIR-2022.pdf)\]        
+* A Weakly Supervised Propagation Model for Rumor Verification and Stance Detection with Multiple Instance Learning \[[PDF](https://dl.acm.org/doi/10.1145/3477495.3531930)\] \[[PrePrint](https://arxiv.org/abs/2204.02626)\]        
 Ruichao Yang, **Jing Ma**, Hongzhan Lin and Wei Gao    
 **SIGIR 2022**: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Jul 2022, Madrid.
 
-* AMIF: A Hybrid Model for Improving Fact Checking in Product Question Answering \[[PDF](https://majingcuhk.github.io/references/IJCNN-2022.pdf)\]          
+* AMIF: A Hybrid Model for Improving Fact Checking in Product Question Answering \[[PDF](https://ieeexplore.ieee.org/document/9892491)\]          
 Hongzhan Lin, Liangliang Chen, **Jing Ma**, Zhiwei Yang and Guang Chen    
 **IJCNN 2022**: 2022 International Joint Conference on Neural Networks, Jul 2022, Padua, Italy.
 
-* Context-aware Attentive Multi-level Feature Fusion for Named Entity Recognition \[[PDF](https://majingcuhk.github.io/references/TNNLS-2022.pdf)\]             
+* Context-aware Attentive Multi-level Feature Fusion for Named Entity Recognition \[[PDF](https://ieeexplore.ieee.org/document/9791116)\]             
 Zhiwei Yang, **Jing Ma**, Hechang Chen, Jiawei Zhang and Yi Chang  
 **TNNLS**: IEEE Transactions on Neural Networks and Learning Systems.
 &emsp;
@@ -270,15 +270,15 @@ Jiangshu Du, Yingtong Dou, Congying Xia, Limeng Cui, **Jing Ma**, and Philip Yu
 Wenxuan Zhang, Yang Deng, **Jing Ma** and Wai Lam    
 **EMNLP 2020**: The 2020 Conference on Empirical Methods in Natural Language Processing, Nov 2020, online.
 
-* Attention-based Multi-level Feature Fusion for Named Entity Recognition \[[PDF](https://majingcuhk.github.io/references/IJCAI-2020.pdf)\]   
+* Attention-based Multi-level Feature Fusion for Named Entity Recognition \[[PDF](https://dl.acm.org/doi/10.5555/3491440.3491937)\]   
 Zhiwei Yang, Hechang Chen, Jiawei Zhang, **Jing Ma** and Yi Chang    
 **IJCAI 2020**: The 29th International Joint Conference on Artificial Intelligence, July 2020, Yokohama, Japan.    
 
-* An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks \[[PDF](https://majingcuhk.github.io/references/TIST-2020.pdf)\]       
+* An Attention-based Rumor Detection Model with Tree-structured Recursive Neural Networks \[[PDF](https://dl.acm.org/doi/10.1145/3391250)\]       
 **Jing Ma**, Wei Gao, Shafiq Joty, and Kam-Fai Wong    
 **TIST**: ACM Transactions on Intelligent Systems and Technology, pages 1-28.     
 
-* Review-guided Helpful Answer Identification in E-commerce \[[PDF](https://majingcuhk.github.io/references/WWW-2020.pdf)\]       
+* Review-guided Helpful Answer Identification in E-commerce \[[PDF](https://dl.acm.org/doi/abs/10.1145/3366423.3380015)\] \[[PrePrint](https://arxiv.org/abs/2003.06209)\]       
 Wenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**    
 **WWW 2020**: The Web Conference 2020, April 2020, Taipei.    
 &emsp;
@@ -288,7 +288,7 @@ Wenxuan Zhang, Wai Lam, Yang Deng and **Jing Ma**
 **Jing Ma**, Wei Gao, Shafiq Joty, and Kam-Fai Wong    
 **ACL 2019**: The 57th Annual Meeting of the Association for Computational Linguistics, July 2019, Florence, Italy.     
 
-* Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning \[[PDF](https://majingcuhk.github.io/references/WWW-2019.pdf)\] \[[CODE](https://github.com/majingCUHK/Rumor_GAN)\]       
+* Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning \[[PDF](https://dl.acm.org/doi/10.1145/3308558.3313741)\] \[[CODE](https://github.com/majingCUHK/Rumor_GAN)\]       
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **WWW 2019**: The Web Conference 2019, May 2019, San Francisco, USA.     
 &emsp;
@@ -302,7 +302,7 @@ Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **ACL 2018**: The 56th Annual Meeting of the Association for Computational Linguistics, July 2018, Melbourne, Australia.     
 
-* Detect Rumor and Stance Jointly by Neural Multi-task Learning \[[PDF](https://majingcuhk.github.io/references/WWW-2018.pdf)\]       
+* Detect Rumor and Stance Jointly by Neural Multi-task Learning \[[PDF](https://dl.acm.org/doi/10.1145/3184558.3188729)\]       
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **WWW 2018 Companion**: The Web Conference 2018 Companion (Alternate Track on Journalism, MisInformation, and Fact-checking), April 2018, Lyon, France.  
 &emsp;
@@ -312,19 +312,19 @@ Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava
 **Jing Ma**, Wei Gao, and Kam-Fai Wong    
 **ACL 2017**: The 55th Annual Meeting of the Association for Computational Linguistics, July 2017, Vancouver, Canada.     
 
-* From Retweet to Believability: Utilizing Trust to Identify Rumor Spreaders on Twitter \[[PDF](https://majingcuhk.github.io/references/ASONAM-2017.pdf)\]       
+* From Retweet to Believability: Utilizing Trust to Identify Rumor Spreaders on Twitter \[[PDF](https://dl.acm.org/doi/10.1145/3110025.3110121)\]       
 Bhavtosh Rath, Wei Gao, **Jing Ma**, and Jaideep Srivastava        
 **ASONAM 2017**: The 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, August 2017, Sydney, Australia.     
 &emsp;
 
 ## 2016
-* Detecting Rumors from Microblogs with Recurrent Neural Networks \[[PDF](https://majingcuhk.github.io/references/IJCAI-2016.pdf)\] \[[DATA](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)\]       
+* Detecting Rumors from Microblogs with Recurrent Neural Networks \[[PDF](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)\] \[[DATA](https://www.dropbox.com/s/46r50ctrfa0ur1o/rumdect.zip?dl=0)\]  \[[PrePrint](https://www.researchgate.net/publication/303015763_Detecting_Rumors_from_Microblogs_with_Recurrent_Neural_Networks)\]       
 **Jing Ma**, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, and Meeyoung Cha    
 **IJCAI 2016**: The 25th International Joint Conference on Artificial Intelligence, July 2016, New York, USA.     
 &emsp;
 
 ## 2015
-* Detect Rumors Using Time Series of Social Context Information on Microblogging Websites \[[PDF](https://majingcuhk.github.io/references/CIKM-2015.pdf)\]       
+* Detect Rumors Using Time Series of Social Context Information on Microblogging Websites \[[PDF](https://dl.acm.org/doi/10.1145/2806416.2806607)\]  \[[PrePrint](https://www.researchgate.net/publication/280929880_Detect_Rumors_Using_Time_Series_of_Social_Context_Information_on_Microblogging_Websites)\]     
 **Jing Ma**, Wei Gao, Zhongyu Wei, Yueming Lu, and Kam-Fai Wong    
 **CIKM 2015**: The 24th ACM International Conference on Information and Knowledge Management, October 2015, Melbourne, Australia. 
  
