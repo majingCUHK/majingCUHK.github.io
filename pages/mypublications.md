@@ -18,7 +18,7 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2026
-* REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control           
+* REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control  \[[PrePrint](https://www.researchgate.net/publication/403963287_REFLEX_Self-Refining_Explainable_Fact-Checking_via_Verdict-Anchored_Style_Control)\]             
 Chuyi Kong, Wei Gao, **Jing Ma***，Hongzhan Lin, Yuxi SUN,           
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics, Jul 2025, San Diego, California.
 
