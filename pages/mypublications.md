@@ -42,11 +42,11 @@ Jinghao Luo, Yuchen Tian, Chuxue Cao, Ziyang Luo, Hongzhan Lin, Kaixin Li, Chuyi
 Ruichao Yang, Wei Gao, Xiaobin Zhu, **Jing Ma**, Hongzhan Lin, et al.        
 **CVPR 2026**: Conference on Computer Vision and Pattern Recognition 2026, Jun 2026, Colorado, United States.
 
-* On the Wings of Imagination: Conflicting Script-based Multi-role Framework for Humor Caption Generation        
+* On the Wings of Imagination: Conflicting Script-based Multi-role Framework for Humor Caption Generation  \[[PDF](https://majingcuhk.github.io/references/ICLR2026-Humor.pdf)\]        
 Wenbo Shang, Yuxi Sun, **Jing Ma**, Xin Huang        
 **ICLR 2026**: The Fourteenth International Conference on Learning Representations, Apr 2026, Rio de Janeiro, Brazil.
 
-* EvolProver: Advancing Automated theorem proving by Evolving Formalized Problems via Symmetry and Difficulty        
+* EvolProver: Advancing Automated theorem proving by Evolving Formalized Problems via Symmetry and Difficulty  \[[PDF](https://majingcuhk.github.io/references/ICLR2026-EvolProver.pdf)\]        
 Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, **Jing Ma**, Zengfeng Huang, et al.          
 **ICLR 2026**: The Fourteenth International Conference on Learning Representations, Apr 2026, Rio de Janeiro, Brazil.
 
@@ -54,7 +54,7 @@ Yuchen Tian, Ruiyuan Huang, Xuanwu Wang, **Jing Ma**, Zengfeng Huang, et al.
 Fengzhu ZENG, Qian Shao, Ling Cheng, Wei Gao, Shih-Fen Cheng, **Jing Ma**, Cheng Niu           
 **ACM KDD 2026**: The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Aug 2026, Jeju, South Korea.
 
-* A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM         
+* A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM\[[PDF](https://dl.acm.org/doi/10.1145/3810244)\]            
 Bo Wang, **Jing Ma**\*, Hongzhan Lin, Zhiwei Yang, Ruichao Yang, Yuan Tian\*, Yi Chang\*        
 **TOIS**: The ACM Transactions on Information Systems.
 
