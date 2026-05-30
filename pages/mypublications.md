@@ -270,7 +270,7 @@ Jiangshu Du, Yingtong Dou, Congying Xia, Limeng Cui, **Jing Ma**, and Philip Yu
 Wenxuan Zhang, Yang Deng, **Jing Ma** and Wai Lam    
 **EMNLP 2020**: The 2020 Conference on Empirical Methods in Natural Language Processing, Nov 2020, online.
 
-* Attention-based Multi-level Feature Fusion for Named Entity Recognition \[[PDF](https://dl.acm.org/doi/10.5555/3491440.3491937)\]   
+* Attention-based Multi-level Feature Fusion for Named Entity Recognition \[[PDF](https://www.ijcai.org/proceedings/2020/0497.pdf)\]  \[[PrePrint](https://www.researchgate.net/publication/342793249_Attention-based_Multi-level_Feature_Fusion_for_Named_Entity_Recognition)\]   
 Zhiwei Yang, Hechang Chen, Jiawei Zhang, **Jing Ma** and Yi Chang    
 **IJCAI 2020**: The 29th International Joint Conference on Artificial Intelligence, July 2020, Yokohama, Japan.    
 
