@@ -42,7 +42,7 @@
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Invited Talks</b></span></span></p>
 
-- “Agents for Coding and Social Safety” at 2026 Global Software Technology Summit – Asia-Pacific Session, Huawei, Jul 3rd, 2026.
+- “Agents for Coding and Social Safety” at 2026 Global Software Technology Summit – Asia-Pacific Session (Huawei), Hong Kong, Jul 3rd, 2026.
 - “Large Language Model for Coding” at Huawei, Online, May 22nd, 2025.
 - “Large Language Model for Social Safety”, Keynote Speaker at [SSNLP 2024](https://wing-nus.github.io/SSNLP-2024/), Singapore, Nov 6th, 2024.
 - “Large Language Model: Background, Techniques and our development”, at [How Well Can AI Assist Us in Coding and Grading Tasks?](https://www.aiforeducation.net/event-details/how-well-can-ai-assist-us-in-coding-and-grading-tasks), Hong Kong, Nov 30th, 2023.
