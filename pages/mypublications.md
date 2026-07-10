@@ -38,6 +38,10 @@ Ruichao Yang, Yufan Bian, Wei Gao, Bo-Wen Zhang, **Jing Ma***, et al.
 Jinghao Luo, Yuchen Tian, Chuxue Cao, Ziyang Luo, Hongzhan Lin, Kaixin Li, Chuyi Kong, Ruichao Yang, **Jing Ma***          
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics (Findings), Jul 2025, San Diego, California.
       
+* CoreSemDB: Benchmarking Hybrid Semantic-Relational Query Processing over Text-Rich Databases          
+Yuchen Tian, Hao Zhang, **Jing Ma**\*, Jianxiong Guo\*, Congli Gao        
+**COLM 2026**: Third Conference on Language Modeling, Oct 2026, San Francisco, USA.
+
 * Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection  \[[PrePrint](https://arxiv.org/abs/2603.25203)\]        
 Ruichao Yang, Wei Gao, Xiaobin Zhu, **Jing Ma**, Hongzhan Lin, et al.        
 **CVPR 2026**: Conference on Computer Vision and Pattern Recognition 2026, Jun 2026, Colorado, United States.
