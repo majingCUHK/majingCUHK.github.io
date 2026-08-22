@@ -18,6 +18,10 @@ show-avatar: false
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;">Research papers (journals, conferences, workshops)</span></span></p>
 
 ## 2026
+* Diagnosing LLM Arbitration Behavior over Pre-evidence Epistemic States in RAG-based Fact-Checking  \[[PrePrint](https://arxiv.org/pdf/2606.01120)\]               
+Yuxi Sun, Wenbo Shang, Wei Gao, Xin Huang, **Jing Ma**\*         
+**EMNLP 2026**: The 2026 Conference on Empirical Methods in Natural Language Processing, Oct 2026, Budapest, Hungary.
+
 * REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control  \[[PrePrint](https://www.researchgate.net/publication/403963287_REFLEX_Self-Refining_Explainable_Fact-Checking_via_Verdict-Anchored_Style_Control)\]             
 Chuyi Kong, Wei Gao, **Jing Ma***，Hongzhan Lin, Yuxi SUN,           
 **ACL 2026**: The 64th Annual Meeting of the Association for Computational Linguistics, Jul 2025, San Diego, California.
