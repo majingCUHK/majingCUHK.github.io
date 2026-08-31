@@ -3,7 +3,6 @@
 
 - **Term 1, Year 2026 - '27**: [COMP4136(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4136.pdf) -- Natural Language Processing and Large Language Model
 - **Term 2, Year 2026 - '27**: [COMP7045(PG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP7045.pdf) -- Natural Language Processing and Large Language Model
-- **Term 2, Year 2026 - '27**: [COMP4125(UG)](https://www.comp.hkbu.edu.hk/v1/file/course/COMP4125.pdf) -- Visual Analytics
 &emsp; 
 
 <p><span style="font-family:georgia,serif;"><span style="font-size:26px;"><b>Past Courses</b></span></span></p>
